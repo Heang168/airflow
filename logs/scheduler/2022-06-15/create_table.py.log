@@ -1,0 +1,791 @@
+[2022-06-15 08:34:59,673] {processor.py:153} INFO - Started process (PID=23461) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:34:59,676] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:34:59,680] {logging_mixin.py:115} INFO - [2022-06-15 08:34:59,680] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:34:59,723] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:34:59,755] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.094 seconds
+[2022-06-15 08:35:29,864] {processor.py:153} INFO - Started process (PID=23516) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:35:29,868] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:35:29,879] {logging_mixin.py:115} INFO - [2022-06-15 08:35:29,879] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:35:29,945] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:35:30,113] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.264 seconds
+[2022-06-15 08:36:00,932] {processor.py:153} INFO - Started process (PID=23570) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:00,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:36:00,938] {logging_mixin.py:115} INFO - [2022-06-15 08:36:00,938] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:01,022] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:01,115] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.208 seconds
+[2022-06-15 08:36:31,325] {processor.py:153} INFO - Started process (PID=23632) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:31,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:36:31,364] {logging_mixin.py:115} INFO - [2022-06-15 08:36:31,347] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:31,474] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:36:31,578] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.269 seconds
+[2022-06-15 08:37:02,057] {processor.py:153} INFO - Started process (PID=23687) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:02,059] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:37:02,061] {logging_mixin.py:115} INFO - [2022-06-15 08:37:02,061] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:02,084] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:02,111] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.060 seconds
+[2022-06-15 08:37:32,390] {processor.py:153} INFO - Started process (PID=23742) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:32,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:37:32,398] {logging_mixin.py:115} INFO - [2022-06-15 08:37:32,398] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:32,427] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:37:32,458] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.075 seconds
+[2022-06-15 08:38:02,655] {processor.py:153} INFO - Started process (PID=23797) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:02,659] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:38:02,661] {logging_mixin.py:115} INFO - [2022-06-15 08:38:02,661] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:02,709] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:02,756] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.108 seconds
+[2022-06-15 08:38:32,917] {processor.py:153} INFO - Started process (PID=23859) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:32,919] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:38:32,922] {logging_mixin.py:115} INFO - [2022-06-15 08:38:32,922] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:32,977] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:38:33,012] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.108 seconds
+[2022-06-15 08:39:03,324] {processor.py:153} INFO - Started process (PID=23918) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:03,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:39:03,328] {logging_mixin.py:115} INFO - [2022-06-15 08:39:03,327] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:03,358] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:03,382] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.066 seconds
+[2022-06-15 08:39:34,086] {processor.py:153} INFO - Started process (PID=23974) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:34,088] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:39:34,093] {logging_mixin.py:115} INFO - [2022-06-15 08:39:34,093] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:34,118] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:39:34,151] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.073 seconds
+[2022-06-15 08:40:04,901] {processor.py:153} INFO - Started process (PID=24029) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:04,918] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:40:04,925] {logging_mixin.py:115} INFO - [2022-06-15 08:40:04,924] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:04,997] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:05,040] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.143 seconds
+[2022-06-15 08:40:35,308] {processor.py:153} INFO - Started process (PID=24094) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:35,311] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:40:35,313] {logging_mixin.py:115} INFO - [2022-06-15 08:40:35,313] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:35,341] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:40:35,383] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.081 seconds
+[2022-06-15 08:41:06,132] {processor.py:153} INFO - Started process (PID=24151) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:06,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:41:06,140] {logging_mixin.py:115} INFO - [2022-06-15 08:41:06,140] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:06,166] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:06,192] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.067 seconds
+[2022-06-15 08:41:36,660] {processor.py:153} INFO - Started process (PID=24207) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:36,663] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:41:36,665] {logging_mixin.py:115} INFO - [2022-06-15 08:41:36,665] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:36,692] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:41:36,714] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.064 seconds
+[2022-06-15 08:42:07,445] {processor.py:153} INFO - Started process (PID=24272) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:07,448] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:42:07,450] {logging_mixin.py:115} INFO - [2022-06-15 08:42:07,450] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:07,490] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:07,549] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.112 seconds
+[2022-06-15 08:42:38,064] {processor.py:153} INFO - Started process (PID=24328) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:38,067] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:42:38,070] {logging_mixin.py:115} INFO - [2022-06-15 08:42:38,070] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:38,099] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:38,125] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.069 seconds
+[2022-06-15 08:42:40,184] {processor.py:153} INFO - Started process (PID=24329) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:40,187] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:42:40,193] {logging_mixin.py:115} INFO - [2022-06-15 08:42:40,192] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:40,220] {logging_mixin.py:115} INFO - [2022-06-15 08:42:40,207] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/create_table.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/create_table.py", line 23
+    sql = """
+      ^
+SyntaxError: invalid syntax
+[2022-06-15 08:42:40,222] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:40,286] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.112 seconds
+[2022-06-15 08:42:48,562] {processor.py:153} INFO - Started process (PID=24344) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:48,602] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:42:48,611] {logging_mixin.py:115} INFO - [2022-06-15 08:42:48,610] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:48,850] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:42:49,219] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,219] {manager.py:508} INFO - Created Permission View: can delete on DAG:testing
+[2022-06-15 08:42:49,306] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,306] {manager.py:508} INFO - Created Permission View: can read on DAG:testing
+[2022-06-15 08:42:49,339] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,339] {manager.py:508} INFO - Created Permission View: can edit on DAG:testing
+[2022-06-15 08:42:49,346] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,341] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:42:49,382] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,382] {dag.py:2398} INFO - Creating ORM DAG for testing
+[2022-06-15 08:42:49,412] {logging_mixin.py:115} INFO - [2022-06-15 08:42:49,412] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:42:49,450] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.960 seconds
+[2022-06-15 08:43:20,266] {processor.py:153} INFO - Started process (PID=24391) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:20,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:43:20,294] {logging_mixin.py:115} INFO - [2022-06-15 08:43:20,294] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:20,581] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:20,740] {logging_mixin.py:115} INFO - [2022-06-15 08:43:20,737] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:43:20,873] {logging_mixin.py:115} INFO - [2022-06-15 08:43:20,873] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:43:20,963] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.767 seconds
+[2022-06-15 08:43:51,389] {processor.py:153} INFO - Started process (PID=24456) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:51,393] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:43:51,398] {logging_mixin.py:115} INFO - [2022-06-15 08:43:51,397] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:51,454] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:43:51,530] {logging_mixin.py:115} INFO - [2022-06-15 08:43:51,528] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:43:51,563] {logging_mixin.py:115} INFO - [2022-06-15 08:43:51,562] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:43:51,583] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.212 seconds
+[2022-06-15 08:44:01,272] {processor.py:153} INFO - Started process (PID=24472) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:01,284] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:44:01,286] {logging_mixin.py:115} INFO - [2022-06-15 08:44:01,286] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:01,436] {processor.py:651} INFO - DAG(s) dict_keys(['z1_table']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:03,365] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,365] {manager.py:508} INFO - Created Permission View: can delete on DAG:z1_table
+[2022-06-15 08:44:03,451] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,451] {manager.py:508} INFO - Created Permission View: can read on DAG:z1_table
+[2022-06-15 08:44:03,576] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,576] {manager.py:508} INFO - Created Permission View: can edit on DAG:z1_table
+[2022-06-15 08:44:03,594] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,579] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:44:03,722] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,712] {dag.py:2398} INFO - Creating ORM DAG for z1_table
+[2022-06-15 08:44:03,857] {logging_mixin.py:115} INFO - [2022-06-15 08:44:03,857] {dag.py:2931} INFO - Setting next_dagrun for z1_table to None, run_after=None
+[2022-06-15 08:44:03,947] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 2.680 seconds
+[2022-06-15 08:44:34,178] {processor.py:153} INFO - Started process (PID=24529) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:34,191] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:44:34,218] {logging_mixin.py:115} INFO - [2022-06-15 08:44:34,216] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:35,947] {processor.py:651} INFO - DAG(s) dict_keys(['z1_table']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:44:37,098] {logging_mixin.py:115} INFO - [2022-06-15 08:44:37,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:44:37,857] {logging_mixin.py:115} INFO - [2022-06-15 08:44:37,857] {dag.py:2931} INFO - Setting next_dagrun for z1_table to None, run_after=None
+[2022-06-15 08:44:38,061] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 3.905 seconds
+[2022-06-15 08:45:08,325] {processor.py:153} INFO - Started process (PID=24586) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:08,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:45:08,330] {logging_mixin.py:115} INFO - [2022-06-15 08:45:08,330] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:08,363] {processor.py:651} INFO - DAG(s) dict_keys(['z1_table']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:08,441] {logging_mixin.py:115} INFO - [2022-06-15 08:45:08,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:45:08,514] {logging_mixin.py:115} INFO - [2022-06-15 08:45:08,514] {dag.py:2931} INFO - Setting next_dagrun for z1_table to None, run_after=None
+[2022-06-15 08:45:08,536] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.217 seconds
+[2022-06-15 08:45:38,756] {processor.py:153} INFO - Started process (PID=24650) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:38,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:45:38,764] {logging_mixin.py:115} INFO - [2022-06-15 08:45:38,763] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:38,815] {processor.py:651} INFO - DAG(s) dict_keys(['z1_table']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:45:38,873] {logging_mixin.py:115} INFO - [2022-06-15 08:45:38,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:45:38,912] {logging_mixin.py:115} INFO - [2022-06-15 08:45:38,912] {dag.py:2931} INFO - Setting next_dagrun for z1_table to None, run_after=None
+[2022-06-15 08:45:38,940] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.204 seconds
+[2022-06-15 08:46:09,486] {processor.py:153} INFO - Started process (PID=24706) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:09,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:46:09,494] {logging_mixin.py:115} INFO - [2022-06-15 08:46:09,494] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:09,573] {processor.py:651} INFO - DAG(s) dict_keys(['z1_table']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:09,670] {logging_mixin.py:115} INFO - [2022-06-15 08:46:09,668] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:46:09,746] {logging_mixin.py:115} INFO - [2022-06-15 08:46:09,746] {dag.py:2931} INFO - Setting next_dagrun for z1_table to None, run_after=None
+[2022-06-15 08:46:09,807] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.343 seconds
+[2022-06-15 08:46:20,980] {processor.py:153} INFO - Started process (PID=24724) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:20,987] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:46:20,991] {logging_mixin.py:115} INFO - [2022-06-15 08:46:20,990] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:21,039] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:21,103] {logging_mixin.py:115} INFO - [2022-06-15 08:46:21,102] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:46:21,151] {logging_mixin.py:115} INFO - [2022-06-15 08:46:21,151] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:46:21,181] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.209 seconds
+[2022-06-15 08:46:51,500] {processor.py:153} INFO - Started process (PID=24781) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:51,503] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:46:51,509] {logging_mixin.py:115} INFO - [2022-06-15 08:46:51,509] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:51,618] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:46:51,715] {logging_mixin.py:115} INFO - [2022-06-15 08:46:51,712] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:46:51,773] {logging_mixin.py:115} INFO - [2022-06-15 08:46:51,773] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:46:51,865] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.379 seconds
+[2022-06-15 08:47:22,433] {processor.py:153} INFO - Started process (PID=24838) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:22,435] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:47:22,443] {logging_mixin.py:115} INFO - [2022-06-15 08:47:22,443] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:22,561] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:22,651] {logging_mixin.py:115} INFO - [2022-06-15 08:47:22,648] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:47:22,713] {logging_mixin.py:115} INFO - [2022-06-15 08:47:22,713] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:47:22,771] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.347 seconds
+[2022-06-15 08:47:53,478] {processor.py:153} INFO - Started process (PID=24902) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:53,506] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:47:53,536] {logging_mixin.py:115} INFO - [2022-06-15 08:47:53,535] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:54,291] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:47:54,652] {logging_mixin.py:115} INFO - [2022-06-15 08:47:54,643] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:47:54,947] {logging_mixin.py:115} INFO - [2022-06-15 08:47:54,946] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:47:55,076] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 1.657 seconds
+[2022-06-15 08:48:02,131] {processor.py:153} INFO - Started process (PID=24916) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:02,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:48:02,136] {logging_mixin.py:115} INFO - [2022-06-15 08:48:02,136] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:02,190] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:02,337] {logging_mixin.py:115} INFO - [2022-06-15 08:48:02,336] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:48:02,366] {logging_mixin.py:115} INFO - [2022-06-15 08:48:02,366] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:48:02,400] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.279 seconds
+[2022-06-15 08:48:03,215] {processor.py:153} INFO - Started process (PID=24917) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:03,219] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:48:03,222] {logging_mixin.py:115} INFO - [2022-06-15 08:48:03,222] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:03,301] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:03,349] {logging_mixin.py:115} INFO - [2022-06-15 08:48:03,347] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:48:03,399] {logging_mixin.py:115} INFO - [2022-06-15 08:48:03,399] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:48:03,444] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.238 seconds
+[2022-06-15 08:48:33,707] {processor.py:153} INFO - Started process (PID=24973) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:33,710] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:48:33,715] {logging_mixin.py:115} INFO - [2022-06-15 08:48:33,715] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:33,764] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:48:33,837] {logging_mixin.py:115} INFO - [2022-06-15 08:48:33,833] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:48:33,885] {logging_mixin.py:115} INFO - [2022-06-15 08:48:33,884] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:48:33,905] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.208 seconds
+[2022-06-15 08:49:04,264] {processor.py:153} INFO - Started process (PID=25029) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:04,271] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:49:04,294] {logging_mixin.py:115} INFO - [2022-06-15 08:49:04,285] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:04,506] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:04,827] {logging_mixin.py:115} INFO - [2022-06-15 08:49:04,821] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:49:05,102] {logging_mixin.py:115} INFO - [2022-06-15 08:49:05,102] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:49:05,142] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.904 seconds
+[2022-06-15 08:49:12,814] {processor.py:153} INFO - Started process (PID=25047) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:12,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:49:12,823] {logging_mixin.py:115} INFO - [2022-06-15 08:49:12,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:12,881] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:13,004] {logging_mixin.py:115} INFO - [2022-06-15 08:49:13,002] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:49:13,035] {logging_mixin.py:115} INFO - [2022-06-15 08:49:13,035] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:49:13,067] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.269 seconds
+[2022-06-15 08:49:13,961] {processor.py:153} INFO - Started process (PID=25051) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:13,966] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:49:13,968] {logging_mixin.py:115} INFO - [2022-06-15 08:49:13,968] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:14,018] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:14,051] {logging_mixin.py:115} INFO - [2022-06-15 08:49:14,049] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:49:14,114] {logging_mixin.py:115} INFO - [2022-06-15 08:49:14,114] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:49:14,172] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.216 seconds
+[2022-06-15 08:49:44,739] {processor.py:153} INFO - Started process (PID=25105) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:44,742] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:49:44,746] {logging_mixin.py:115} INFO - [2022-06-15 08:49:44,745] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:44,806] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:49:44,867] {logging_mixin.py:115} INFO - [2022-06-15 08:49:44,866] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:49:44,904] {logging_mixin.py:115} INFO - [2022-06-15 08:49:44,904] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:49:44,926] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.193 seconds
+[2022-06-15 08:50:15,706] {processor.py:153} INFO - Started process (PID=25159) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:15,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:50:15,710] {logging_mixin.py:115} INFO - [2022-06-15 08:50:15,710] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:15,756] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:15,800] {logging_mixin.py:115} INFO - [2022-06-15 08:50:15,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:50:15,828] {logging_mixin.py:115} INFO - [2022-06-15 08:50:15,828] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:50:15,850] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.151 seconds
+[2022-06-15 08:50:46,638] {processor.py:153} INFO - Started process (PID=25215) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:46,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:50:46,650] {logging_mixin.py:115} INFO - [2022-06-15 08:50:46,650] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:46,737] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:50:46,817] {logging_mixin.py:115} INFO - [2022-06-15 08:50:46,814] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:50:46,873] {logging_mixin.py:115} INFO - [2022-06-15 08:50:46,873] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:50:46,919] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.304 seconds
+[2022-06-15 08:51:11,994] {processor.py:153} INFO - Started process (PID=25259) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:11,997] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:51:12,004] {logging_mixin.py:115} INFO - [2022-06-15 08:51:12,003] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:12,059] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:12,227] {logging_mixin.py:115} INFO - [2022-06-15 08:51:12,225] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:51:12,268] {logging_mixin.py:115} INFO - [2022-06-15 08:51:12,268] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:51:12,311] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.327 seconds
+[2022-06-15 08:51:42,401] {processor.py:153} INFO - Started process (PID=25314) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:42,405] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:51:42,413] {logging_mixin.py:115} INFO - [2022-06-15 08:51:42,412] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:42,494] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:51:42,542] {logging_mixin.py:115} INFO - [2022-06-15 08:51:42,541] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:51:42,588] {logging_mixin.py:115} INFO - [2022-06-15 08:51:42,587] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:51:42,607] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.218 seconds
+[2022-06-15 08:52:12,658] {processor.py:153} INFO - Started process (PID=25370) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:12,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:52:12,662] {logging_mixin.py:115} INFO - [2022-06-15 08:52:12,662] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:12,696] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:12,742] {logging_mixin.py:115} INFO - [2022-06-15 08:52:12,739] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:52:12,775] {logging_mixin.py:115} INFO - [2022-06-15 08:52:12,775] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:52:12,798] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.146 seconds
+[2022-06-15 08:52:43,821] {processor.py:153} INFO - Started process (PID=25429) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:43,837] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:52:43,848] {logging_mixin.py:115} INFO - [2022-06-15 08:52:43,848] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:43,995] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:52:44,201] {logging_mixin.py:115} INFO - [2022-06-15 08:52:44,199] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:52:44,506] {logging_mixin.py:115} INFO - [2022-06-15 08:52:44,505] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:52:44,607] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.790 seconds
+[2022-06-15 08:53:14,811] {processor.py:153} INFO - Started process (PID=25484) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:14,812] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:53:14,814] {logging_mixin.py:115} INFO - [2022-06-15 08:53:14,814] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:14,852] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:14,914] {logging_mixin.py:115} INFO - [2022-06-15 08:53:14,911] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:53:14,949] {logging_mixin.py:115} INFO - [2022-06-15 08:53:14,949] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:53:14,967] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.161 seconds
+[2022-06-15 08:53:45,804] {processor.py:153} INFO - Started process (PID=25540) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:45,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:53:45,812] {logging_mixin.py:115} INFO - [2022-06-15 08:53:45,812] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:45,865] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:53:45,932] {logging_mixin.py:115} INFO - [2022-06-15 08:53:45,928] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:53:45,990] {logging_mixin.py:115} INFO - [2022-06-15 08:53:45,990] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:53:46,016] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.217 seconds
+[2022-06-15 08:54:16,695] {processor.py:153} INFO - Started process (PID=25604) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:16,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:54:16,701] {logging_mixin.py:115} INFO - [2022-06-15 08:54:16,700] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:16,741] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:16,782] {logging_mixin.py:115} INFO - [2022-06-15 08:54:16,780] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:54:16,856] {logging_mixin.py:115} INFO - [2022-06-15 08:54:16,855] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:54:16,887] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.200 seconds
+[2022-06-15 08:54:47,527] {processor.py:153} INFO - Started process (PID=25660) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:47,530] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:54:47,532] {logging_mixin.py:115} INFO - [2022-06-15 08:54:47,532] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:47,574] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:54:47,636] {logging_mixin.py:115} INFO - [2022-06-15 08:54:47,628] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:54:47,675] {logging_mixin.py:115} INFO - [2022-06-15 08:54:47,675] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:54:47,696] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.174 seconds
+[2022-06-15 08:55:17,912] {processor.py:153} INFO - Started process (PID=25721) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:17,914] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:55:17,916] {logging_mixin.py:115} INFO - [2022-06-15 08:55:17,916] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:17,969] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:18,069] {logging_mixin.py:115} INFO - [2022-06-15 08:55:18,067] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:55:18,163] {logging_mixin.py:115} INFO - [2022-06-15 08:55:18,162] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:55:18,222] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.316 seconds
+[2022-06-15 08:55:48,409] {processor.py:153} INFO - Started process (PID=25777) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:48,412] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:55:48,414] {logging_mixin.py:115} INFO - [2022-06-15 08:55:48,413] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:48,437] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:55:48,476] {logging_mixin.py:115} INFO - [2022-06-15 08:55:48,474] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:55:48,504] {logging_mixin.py:115} INFO - [2022-06-15 08:55:48,503] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:55:48,520] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.115 seconds
+[2022-06-15 08:56:18,639] {processor.py:153} INFO - Started process (PID=25833) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:18,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:56:18,645] {logging_mixin.py:115} INFO - [2022-06-15 08:56:18,645] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:18,680] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:18,754] {logging_mixin.py:115} INFO - [2022-06-15 08:56:18,752] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:56:18,788] {logging_mixin.py:115} INFO - [2022-06-15 08:56:18,787] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:56:18,811] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.185 seconds
+[2022-06-15 08:56:49,302] {processor.py:153} INFO - Started process (PID=25896) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:49,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:56:49,316] {logging_mixin.py:115} INFO - [2022-06-15 08:56:49,316] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:49,453] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:56:49,542] {logging_mixin.py:115} INFO - [2022-06-15 08:56:49,540] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:56:49,603] {logging_mixin.py:115} INFO - [2022-06-15 08:56:49,603] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:56:49,640] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.354 seconds
+[2022-06-15 08:57:19,872] {processor.py:153} INFO - Started process (PID=25952) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:19,877] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:57:19,886] {logging_mixin.py:115} INFO - [2022-06-15 08:57:19,885] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:20,053] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:20,339] {logging_mixin.py:115} INFO - [2022-06-15 08:57:20,288] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:57:20,536] {logging_mixin.py:115} INFO - [2022-06-15 08:57:20,535] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:57:20,561] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.708 seconds
+[2022-06-15 08:57:52,736] {processor.py:153} INFO - Started process (PID=26008) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:52,759] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:57:52,768] {logging_mixin.py:115} INFO - [2022-06-15 08:57:52,768] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:53,064] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:57:53,414] {logging_mixin.py:115} INFO - [2022-06-15 08:57:53,396] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:57:53,743] {logging_mixin.py:115} INFO - [2022-06-15 08:57:53,743] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:57:53,825] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 1.114 seconds
+[2022-06-15 08:58:18,074] {processor.py:153} INFO - Started process (PID=26048) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:18,083] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:58:18,090] {logging_mixin.py:115} INFO - [2022-06-15 08:58:18,090] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:18,418] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:18,478] {logging_mixin.py:115} INFO - [2022-06-15 08:58:18,474] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:58:18,538] {logging_mixin.py:115} INFO - [2022-06-15 08:58:18,537] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:58:18,571] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.504 seconds
+[2022-06-15 08:58:48,698] {processor.py:153} INFO - Started process (PID=26114) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:48,702] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:58:48,712] {logging_mixin.py:115} INFO - [2022-06-15 08:58:48,711] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:48,769] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:58:48,874] {logging_mixin.py:115} INFO - [2022-06-15 08:58:48,868] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:58:48,953] {logging_mixin.py:115} INFO - [2022-06-15 08:58:48,953] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:58:48,980] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.308 seconds
+[2022-06-15 08:59:19,685] {processor.py:153} INFO - Started process (PID=26171) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:19,687] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:59:19,688] {logging_mixin.py:115} INFO - [2022-06-15 08:59:19,688] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:19,715] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:19,758] {logging_mixin.py:115} INFO - [2022-06-15 08:59:19,755] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:59:19,789] {logging_mixin.py:115} INFO - [2022-06-15 08:59:19,789] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:59:19,826] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.150 seconds
+[2022-06-15 08:59:50,406] {processor.py:153} INFO - Started process (PID=26228) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:50,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 08:59:50,414] {logging_mixin.py:115} INFO - [2022-06-15 08:59:50,414] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:50,443] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 08:59:50,482] {logging_mixin.py:115} INFO - [2022-06-15 08:59:50,480] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 08:59:50,510] {logging_mixin.py:115} INFO - [2022-06-15 08:59:50,509] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 08:59:50,530] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.133 seconds
+[2022-06-15 09:00:19,064] {processor.py:153} INFO - Started process (PID=26292) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:19,072] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:00:19,083] {logging_mixin.py:115} INFO - [2022-06-15 09:00:19,082] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:19,216] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:19,289] {logging_mixin.py:115} INFO - [2022-06-15 09:00:19,288] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:00:19,323] {logging_mixin.py:115} INFO - [2022-06-15 09:00:19,323] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:00:19,377] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.353 seconds
+[2022-06-15 09:00:50,235] {processor.py:153} INFO - Started process (PID=26347) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:50,249] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:00:50,277] {logging_mixin.py:115} INFO - [2022-06-15 09:00:50,277] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:50,447] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:00:50,677] {logging_mixin.py:115} INFO - [2022-06-15 09:00:50,667] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:00:50,920] {logging_mixin.py:115} INFO - [2022-06-15 09:00:50,910] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:00:50,974] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.788 seconds
+[2022-06-15 09:01:21,498] {processor.py:153} INFO - Started process (PID=26403) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:21,503] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:01:21,508] {logging_mixin.py:115} INFO - [2022-06-15 09:01:21,507] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:21,679] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:21,942] {logging_mixin.py:115} INFO - [2022-06-15 09:01:21,937] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:01:22,021] {logging_mixin.py:115} INFO - [2022-06-15 09:01:22,021] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:01:22,057] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.570 seconds
+[2022-06-15 09:01:52,869] {processor.py:153} INFO - Started process (PID=26458) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:52,873] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:01:52,875] {logging_mixin.py:115} INFO - [2022-06-15 09:01:52,875] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:52,946] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:01:52,993] {logging_mixin.py:115} INFO - [2022-06-15 09:01:52,991] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:01:53,023] {logging_mixin.py:115} INFO - [2022-06-15 09:01:53,023] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:01:53,040] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.179 seconds
+[2022-06-15 09:02:23,205] {processor.py:153} INFO - Started process (PID=26513) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:23,208] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:02:23,211] {logging_mixin.py:115} INFO - [2022-06-15 09:02:23,211] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:23,242] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:23,289] {logging_mixin.py:115} INFO - [2022-06-15 09:02:23,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:02:23,329] {logging_mixin.py:115} INFO - [2022-06-15 09:02:23,329] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:02:23,351] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.156 seconds
+[2022-06-15 09:02:54,006] {processor.py:153} INFO - Started process (PID=26569) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:54,010] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:02:54,017] {logging_mixin.py:115} INFO - [2022-06-15 09:02:54,016] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:54,053] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:02:54,134] {logging_mixin.py:115} INFO - [2022-06-15 09:02:54,132] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:02:54,187] {logging_mixin.py:115} INFO - [2022-06-15 09:02:54,187] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:02:54,208] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.216 seconds
+[2022-06-15 09:03:24,488] {processor.py:153} INFO - Started process (PID=26626) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:24,497] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:03:24,499] {logging_mixin.py:115} INFO - [2022-06-15 09:03:24,499] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:24,549] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:24,604] {logging_mixin.py:115} INFO - [2022-06-15 09:03:24,602] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:03:24,660] {logging_mixin.py:115} INFO - [2022-06-15 09:03:24,660] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:03:24,733] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.255 seconds
+[2022-06-15 09:03:55,753] {processor.py:153} INFO - Started process (PID=26690) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:55,755] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:03:55,759] {logging_mixin.py:115} INFO - [2022-06-15 09:03:55,759] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:55,804] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:03:55,862] {logging_mixin.py:115} INFO - [2022-06-15 09:03:55,860] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:03:55,900] {logging_mixin.py:115} INFO - [2022-06-15 09:03:55,900] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:03:55,922] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.180 seconds
+[2022-06-15 09:04:26,854] {processor.py:153} INFO - Started process (PID=26746) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:26,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:04:26,857] {logging_mixin.py:115} INFO - [2022-06-15 09:04:26,857] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:26,884] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:26,924] {logging_mixin.py:115} INFO - [2022-06-15 09:04:26,922] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:04:26,963] {logging_mixin.py:115} INFO - [2022-06-15 09:04:26,963] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:04:26,983] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.134 seconds
+[2022-06-15 09:04:57,377] {processor.py:153} INFO - Started process (PID=26809) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:57,379] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:04:57,381] {logging_mixin.py:115} INFO - [2022-06-15 09:04:57,381] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:57,413] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:04:57,456] {logging_mixin.py:115} INFO - [2022-06-15 09:04:57,455] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:04:57,491] {logging_mixin.py:115} INFO - [2022-06-15 09:04:57,491] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:04:57,511] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.141 seconds
+[2022-06-15 09:05:27,596] {processor.py:153} INFO - Started process (PID=26867) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:27,599] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:05:27,601] {logging_mixin.py:115} INFO - [2022-06-15 09:05:27,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:27,637] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:27,705] {logging_mixin.py:115} INFO - [2022-06-15 09:05:27,702] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:05:27,748] {logging_mixin.py:115} INFO - [2022-06-15 09:05:27,748] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:05:27,778] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.189 seconds
+[2022-06-15 09:05:58,052] {processor.py:153} INFO - Started process (PID=26919) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:58,059] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:05:58,061] {logging_mixin.py:115} INFO - [2022-06-15 09:05:58,060] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:58,142] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:05:58,482] {logging_mixin.py:115} INFO - [2022-06-15 09:05:58,476] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:05:58,717] {logging_mixin.py:115} INFO - [2022-06-15 09:05:58,717] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:05:58,820] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.821 seconds
+[2022-06-15 09:06:28,997] {processor.py:153} INFO - Started process (PID=26975) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:29,001] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:06:29,005] {logging_mixin.py:115} INFO - [2022-06-15 09:06:29,004] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:29,062] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:29,125] {logging_mixin.py:115} INFO - [2022-06-15 09:06:29,123] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:06:29,174] {logging_mixin.py:115} INFO - [2022-06-15 09:06:29,174] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:06:29,195] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.204 seconds
+[2022-06-15 09:06:59,480] {processor.py:153} INFO - Started process (PID=27031) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:59,483] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:06:59,486] {logging_mixin.py:115} INFO - [2022-06-15 09:06:59,486] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:59,523] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:06:59,587] {logging_mixin.py:115} INFO - [2022-06-15 09:06:59,586] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:06:59,633] {logging_mixin.py:115} INFO - [2022-06-15 09:06:59,633] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:06:59,664] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.193 seconds
+[2022-06-15 09:07:30,495] {processor.py:153} INFO - Started process (PID=27095) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:07:30,498] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:07:30,503] {logging_mixin.py:115} INFO - [2022-06-15 09:07:30,501] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:07:30,570] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:07:30,643] {logging_mixin.py:115} INFO - [2022-06-15 09:07:30,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:07:30,825] {logging_mixin.py:115} INFO - [2022-06-15 09:07:30,825] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:07:30,869] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.392 seconds
+[2022-06-15 09:08:00,941] {processor.py:153} INFO - Started process (PID=27154) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:00,944] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:08:00,947] {logging_mixin.py:115} INFO - [2022-06-15 09:08:00,947] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:00,977] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:01,020] {logging_mixin.py:115} INFO - [2022-06-15 09:08:01,018] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:08:01,051] {logging_mixin.py:115} INFO - [2022-06-15 09:08:01,050] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:08:01,069] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.133 seconds
+[2022-06-15 09:08:31,323] {processor.py:153} INFO - Started process (PID=27211) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:31,325] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:08:31,328] {logging_mixin.py:115} INFO - [2022-06-15 09:08:31,328] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:31,360] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:08:31,401] {logging_mixin.py:115} INFO - [2022-06-15 09:08:31,399] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:08:31,434] {logging_mixin.py:115} INFO - [2022-06-15 09:08:31,434] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:08:31,456] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.138 seconds
+[2022-06-15 09:09:02,471] {processor.py:153} INFO - Started process (PID=27275) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:02,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:09:02,488] {logging_mixin.py:115} INFO - [2022-06-15 09:09:02,488] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:02,546] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:02,633] {logging_mixin.py:115} INFO - [2022-06-15 09:09:02,632] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:09:02,693] {logging_mixin.py:115} INFO - [2022-06-15 09:09:02,693] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:09:02,710] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.253 seconds
+[2022-06-15 09:09:03,453] {processor.py:153} INFO - Started process (PID=27276) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:03,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:09:03,456] {logging_mixin.py:115} INFO - [2022-06-15 09:09:03,456] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:03,527] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:03,689] {logging_mixin.py:115} INFO - [2022-06-15 09:09:03,687] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:09:03,742] {logging_mixin.py:115} INFO - [2022-06-15 09:09:03,742] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:09:03,822] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.374 seconds
+[2022-06-15 09:09:34,286] {processor.py:153} INFO - Started process (PID=27332) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:34,289] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:09:34,292] {logging_mixin.py:115} INFO - [2022-06-15 09:09:34,291] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:34,356] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:09:34,425] {logging_mixin.py:115} INFO - [2022-06-15 09:09:34,424] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:09:34,477] {logging_mixin.py:115} INFO - [2022-06-15 09:09:34,477] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:09:34,509] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.237 seconds
+[2022-06-15 09:10:04,903] {processor.py:153} INFO - Started process (PID=27388) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:04,909] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:10:04,920] {logging_mixin.py:115} INFO - [2022-06-15 09:10:04,919] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:05,037] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:05,120] {logging_mixin.py:115} INFO - [2022-06-15 09:10:05,118] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:10:05,158] {logging_mixin.py:115} INFO - [2022-06-15 09:10:05,157] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:10:05,181] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.298 seconds
+[2022-06-15 09:10:35,521] {processor.py:153} INFO - Started process (PID=27444) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:35,524] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:10:35,526] {logging_mixin.py:115} INFO - [2022-06-15 09:10:35,526] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:35,579] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:10:35,642] {logging_mixin.py:115} INFO - [2022-06-15 09:10:35,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:10:35,691] {logging_mixin.py:115} INFO - [2022-06-15 09:10:35,691] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:10:35,726] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.216 seconds
+[2022-06-15 09:11:06,093] {processor.py:153} INFO - Started process (PID=27509) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:06,095] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:11:06,097] {logging_mixin.py:115} INFO - [2022-06-15 09:11:06,097] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:06,126] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:06,167] {logging_mixin.py:115} INFO - [2022-06-15 09:11:06,165] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:11:06,205] {logging_mixin.py:115} INFO - [2022-06-15 09:11:06,205] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:11:06,222] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.134 seconds
+[2022-06-15 09:11:36,338] {processor.py:153} INFO - Started process (PID=27567) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:36,341] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:11:36,344] {logging_mixin.py:115} INFO - [2022-06-15 09:11:36,344] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:36,379] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:11:36,430] {logging_mixin.py:115} INFO - [2022-06-15 09:11:36,429] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:11:36,465] {logging_mixin.py:115} INFO - [2022-06-15 09:11:36,464] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:11:36,499] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.170 seconds
+[2022-06-15 09:12:06,640] {processor.py:153} INFO - Started process (PID=27624) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:06,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:12:06,644] {logging_mixin.py:115} INFO - [2022-06-15 09:12:06,644] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:06,672] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:06,710] {logging_mixin.py:115} INFO - [2022-06-15 09:12:06,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:12:06,741] {logging_mixin.py:115} INFO - [2022-06-15 09:12:06,740] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:12:06,762] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.128 seconds
+[2022-06-15 09:12:37,353] {processor.py:153} INFO - Started process (PID=27678) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:37,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:12:37,357] {logging_mixin.py:115} INFO - [2022-06-15 09:12:37,357] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:37,384] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:12:37,421] {logging_mixin.py:115} INFO - [2022-06-15 09:12:37,420] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:12:37,452] {logging_mixin.py:115} INFO - [2022-06-15 09:12:37,452] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:12:37,478] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.129 seconds
+[2022-06-15 09:13:08,155] {processor.py:153} INFO - Started process (PID=27742) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:08,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:13:08,159] {logging_mixin.py:115} INFO - [2022-06-15 09:13:08,159] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:08,191] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:08,247] {logging_mixin.py:115} INFO - [2022-06-15 09:13:08,246] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:13:08,299] {logging_mixin.py:115} INFO - [2022-06-15 09:13:08,299] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:13:08,320] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.172 seconds
+[2022-06-15 09:13:38,759] {processor.py:153} INFO - Started process (PID=27797) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:38,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:13:38,765] {logging_mixin.py:115} INFO - [2022-06-15 09:13:38,764] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:38,810] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:13:38,910] {logging_mixin.py:115} INFO - [2022-06-15 09:13:38,903] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:13:38,955] {logging_mixin.py:115} INFO - [2022-06-15 09:13:38,955] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:13:38,995] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.242 seconds
+[2022-06-15 09:14:09,379] {processor.py:153} INFO - Started process (PID=27862) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:09,380] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:14:09,382] {logging_mixin.py:115} INFO - [2022-06-15 09:14:09,382] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:09,415] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:09,454] {logging_mixin.py:115} INFO - [2022-06-15 09:14:09,453] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:14:09,488] {logging_mixin.py:115} INFO - [2022-06-15 09:14:09,487] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:14:09,509] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.135 seconds
+[2022-06-15 09:14:39,853] {processor.py:153} INFO - Started process (PID=27918) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:39,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:14:39,857] {logging_mixin.py:115} INFO - [2022-06-15 09:14:39,857] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:39,882] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:14:39,917] {logging_mixin.py:115} INFO - [2022-06-15 09:14:39,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:14:39,946] {logging_mixin.py:115} INFO - [2022-06-15 09:14:39,946] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:14:39,967] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.121 seconds
+[2022-06-15 09:15:10,407] {processor.py:153} INFO - Started process (PID=27974) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:10,409] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:15:10,411] {logging_mixin.py:115} INFO - [2022-06-15 09:15:10,411] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:10,436] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:10,479] {logging_mixin.py:115} INFO - [2022-06-15 09:15:10,477] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:15:10,508] {logging_mixin.py:115} INFO - [2022-06-15 09:15:10,508] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:15:10,528] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.126 seconds
+[2022-06-15 09:15:40,787] {processor.py:153} INFO - Started process (PID=28035) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:40,790] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:15:40,792] {logging_mixin.py:115} INFO - [2022-06-15 09:15:40,792] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:40,849] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:15:40,924] {logging_mixin.py:115} INFO - [2022-06-15 09:15:40,923] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:15:40,980] {logging_mixin.py:115} INFO - [2022-06-15 09:15:40,980] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:15:41,012] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.239 seconds
+[2022-06-15 09:16:11,878] {processor.py:153} INFO - Started process (PID=28093) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:11,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:16:11,899] {logging_mixin.py:115} INFO - [2022-06-15 09:16:11,898] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:11,958] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:12,038] {logging_mixin.py:115} INFO - [2022-06-15 09:16:12,036] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:16:12,070] {logging_mixin.py:115} INFO - [2022-06-15 09:16:12,070] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:16:12,087] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.218 seconds
+[2022-06-15 09:16:42,863] {processor.py:153} INFO - Started process (PID=28149) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:42,866] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:16:42,868] {logging_mixin.py:115} INFO - [2022-06-15 09:16:42,868] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:42,899] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:16:42,947] {logging_mixin.py:115} INFO - [2022-06-15 09:16:42,946] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:16:42,975] {logging_mixin.py:115} INFO - [2022-06-15 09:16:42,975] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:16:42,991] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.140 seconds
+[2022-06-15 09:17:13,363] {processor.py:153} INFO - Started process (PID=28215) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:13,364] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:17:13,366] {logging_mixin.py:115} INFO - [2022-06-15 09:17:13,366] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:13,397] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:13,441] {logging_mixin.py:115} INFO - [2022-06-15 09:17:13,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:17:13,469] {logging_mixin.py:115} INFO - [2022-06-15 09:17:13,469] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:17:13,502] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.148 seconds
+[2022-06-15 09:17:43,747] {processor.py:153} INFO - Started process (PID=28269) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:43,751] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:17:43,760] {logging_mixin.py:115} INFO - [2022-06-15 09:17:43,760] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:43,788] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:17:43,834] {logging_mixin.py:115} INFO - [2022-06-15 09:17:43,831] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:17:43,872] {logging_mixin.py:115} INFO - [2022-06-15 09:17:43,871] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:17:43,893] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.151 seconds
+[2022-06-15 09:18:14,344] {processor.py:153} INFO - Started process (PID=28327) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:14,347] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:18:14,348] {logging_mixin.py:115} INFO - [2022-06-15 09:18:14,348] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:14,385] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:14,446] {logging_mixin.py:115} INFO - [2022-06-15 09:18:14,445] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:18:14,481] {logging_mixin.py:115} INFO - [2022-06-15 09:18:14,481] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:18:14,501] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.163 seconds
+[2022-06-15 09:18:44,592] {processor.py:153} INFO - Started process (PID=28384) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:44,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:18:44,596] {logging_mixin.py:115} INFO - [2022-06-15 09:18:44,596] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:44,624] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:18:44,663] {logging_mixin.py:115} INFO - [2022-06-15 09:18:44,662] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:18:44,694] {logging_mixin.py:115} INFO - [2022-06-15 09:18:44,693] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:18:44,713] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.125 seconds
+[2022-06-15 09:19:15,341] {processor.py:153} INFO - Started process (PID=28439) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:15,345] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:19:15,347] {logging_mixin.py:115} INFO - [2022-06-15 09:19:15,347] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:15,375] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:15,418] {logging_mixin.py:115} INFO - [2022-06-15 09:19:15,416] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:19:15,451] {logging_mixin.py:115} INFO - [2022-06-15 09:19:15,451] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:19:15,471] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.138 seconds
+[2022-06-15 09:19:45,955] {processor.py:153} INFO - Started process (PID=28504) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:45,966] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:19:45,971] {logging_mixin.py:115} INFO - [2022-06-15 09:19:45,970] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:46,073] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:19:46,216] {logging_mixin.py:115} INFO - [2022-06-15 09:19:46,204] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:19:46,349] {logging_mixin.py:115} INFO - [2022-06-15 09:19:46,349] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:19:46,422] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.509 seconds
+[2022-06-15 09:20:17,043] {processor.py:153} INFO - Started process (PID=28558) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:17,046] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:20:17,049] {logging_mixin.py:115} INFO - [2022-06-15 09:20:17,049] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:17,085] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:17,131] {logging_mixin.py:115} INFO - [2022-06-15 09:20:17,129] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:20:17,186] {logging_mixin.py:115} INFO - [2022-06-15 09:20:17,186] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:20:17,204] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.171 seconds
+[2022-06-15 09:20:47,392] {processor.py:153} INFO - Started process (PID=28614) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:47,394] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:20:47,395] {logging_mixin.py:115} INFO - [2022-06-15 09:20:47,395] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:47,423] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:20:47,463] {logging_mixin.py:115} INFO - [2022-06-15 09:20:47,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:20:47,492] {logging_mixin.py:115} INFO - [2022-06-15 09:20:47,492] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:20:47,510] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.123 seconds
+[2022-06-15 09:21:17,810] {processor.py:153} INFO - Started process (PID=28670) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:17,814] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:21:17,820] {logging_mixin.py:115} INFO - [2022-06-15 09:21:17,818] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:17,903] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:17,972] {logging_mixin.py:115} INFO - [2022-06-15 09:21:17,965] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:21:18,027] {logging_mixin.py:115} INFO - [2022-06-15 09:21:18,027] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:21:18,061] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.260 seconds
+[2022-06-15 09:21:48,163] {processor.py:153} INFO - Started process (PID=28736) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:48,168] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:21:48,172] {logging_mixin.py:115} INFO - [2022-06-15 09:21:48,171] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:48,210] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:21:48,290] {logging_mixin.py:115} INFO - [2022-06-15 09:21:48,288] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:21:48,337] {logging_mixin.py:115} INFO - [2022-06-15 09:21:48,337] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:21:48,360] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.206 seconds
+[2022-06-15 09:22:19,024] {processor.py:153} INFO - Started process (PID=28793) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:19,026] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:22:19,030] {logging_mixin.py:115} INFO - [2022-06-15 09:22:19,030] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:19,069] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:19,125] {logging_mixin.py:115} INFO - [2022-06-15 09:22:19,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:22:19,175] {logging_mixin.py:115} INFO - [2022-06-15 09:22:19,175] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:22:19,201] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.187 seconds
+[2022-06-15 09:22:49,357] {processor.py:153} INFO - Started process (PID=28849) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:49,359] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:22:49,363] {logging_mixin.py:115} INFO - [2022-06-15 09:22:49,362] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:49,396] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:22:49,450] {logging_mixin.py:115} INFO - [2022-06-15 09:22:49,449] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:22:49,485] {logging_mixin.py:115} INFO - [2022-06-15 09:22:49,485] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:22:49,507] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.165 seconds
+[2022-06-15 09:23:19,963] {processor.py:153} INFO - Started process (PID=28914) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:19,965] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:23:19,967] {logging_mixin.py:115} INFO - [2022-06-15 09:23:19,967] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:20,001] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:20,047] {logging_mixin.py:115} INFO - [2022-06-15 09:23:20,045] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:23:20,080] {logging_mixin.py:115} INFO - [2022-06-15 09:23:20,080] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:23:20,109] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.151 seconds
+[2022-06-15 09:23:50,466] {processor.py:153} INFO - Started process (PID=28969) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:50,468] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:23:50,470] {logging_mixin.py:115} INFO - [2022-06-15 09:23:50,470] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:50,501] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:23:50,544] {logging_mixin.py:115} INFO - [2022-06-15 09:23:50,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:23:50,576] {logging_mixin.py:115} INFO - [2022-06-15 09:23:50,576] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:23:50,612] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.151 seconds
+[2022-06-15 09:24:20,704] {processor.py:153} INFO - Started process (PID=29025) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:20,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:24:20,710] {logging_mixin.py:115} INFO - [2022-06-15 09:24:20,710] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:20,741] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:20,784] {logging_mixin.py:115} INFO - [2022-06-15 09:24:20,782] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:24:20,823] {logging_mixin.py:115} INFO - [2022-06-15 09:24:20,822] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:24:20,853] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.166 seconds
+[2022-06-15 09:24:51,773] {processor.py:153} INFO - Started process (PID=29082) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:51,776] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:24:51,778] {logging_mixin.py:115} INFO - [2022-06-15 09:24:51,778] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:51,826] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:24:51,899] {logging_mixin.py:115} INFO - [2022-06-15 09:24:51,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:24:51,951] {logging_mixin.py:115} INFO - [2022-06-15 09:24:51,951] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:24:51,984] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.223 seconds
+[2022-06-15 09:25:14,222] {processor.py:153} INFO - Started process (PID=29123) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:14,225] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:25:14,228] {logging_mixin.py:115} INFO - [2022-06-15 09:25:14,228] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:14,281] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:14,350] {logging_mixin.py:115} INFO - [2022-06-15 09:25:14,348] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:25:14,394] {logging_mixin.py:115} INFO - [2022-06-15 09:25:14,394] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:25:14,425] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.213 seconds
+[2022-06-15 09:25:45,596] {processor.py:153} INFO - Started process (PID=29177) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:45,600] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:25:45,610] {logging_mixin.py:115} INFO - [2022-06-15 09:25:45,610] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:45,688] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:25:45,857] {logging_mixin.py:115} INFO - [2022-06-15 09:25:45,848] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:25:45,933] {logging_mixin.py:115} INFO - [2022-06-15 09:25:45,933] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:25:45,966] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.378 seconds
+[2022-06-15 09:26:16,450] {processor.py:153} INFO - Started process (PID=29232) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:16,466] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:26:16,469] {logging_mixin.py:115} INFO - [2022-06-15 09:26:16,469] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:16,671] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:16,944] {logging_mixin.py:115} INFO - [2022-06-15 09:26:16,943] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:26:17,002] {logging_mixin.py:115} INFO - [2022-06-15 09:26:17,002] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:26:17,045] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.606 seconds
+[2022-06-15 09:26:35,650] {processor.py:153} INFO - Started process (PID=29261) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:35,653] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:26:35,667] {logging_mixin.py:115} INFO - [2022-06-15 09:26:35,666] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:35,852] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:26:35,944] {logging_mixin.py:115} INFO - [2022-06-15 09:26:35,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:26:36,019] {logging_mixin.py:115} INFO - [2022-06-15 09:26:36,019] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:26:36,261] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.634 seconds
+[2022-06-15 09:27:06,909] {processor.py:153} INFO - Started process (PID=29318) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:06,912] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:27:06,913] {logging_mixin.py:115} INFO - [2022-06-15 09:27:06,913] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:06,940] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:07,037] {logging_mixin.py:115} INFO - [2022-06-15 09:27:07,035] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:27:07,066] {logging_mixin.py:115} INFO - [2022-06-15 09:27:07,065] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:27:07,089] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.185 seconds
+[2022-06-15 09:27:23,649] {processor.py:153} INFO - Started process (PID=29350) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:23,654] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:27:23,663] {logging_mixin.py:115} INFO - [2022-06-15 09:27:23,660] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:23,902] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:23,975] {logging_mixin.py:115} INFO - [2022-06-15 09:27:23,973] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:27:24,037] {logging_mixin.py:115} INFO - [2022-06-15 09:27:24,037] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:27:24,092] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.466 seconds
+[2022-06-15 09:27:54,245] {processor.py:153} INFO - Started process (PID=29401) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:54,248] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:27:54,252] {logging_mixin.py:115} INFO - [2022-06-15 09:27:54,251] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:54,286] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:27:54,485] {logging_mixin.py:115} INFO - [2022-06-15 09:27:54,478] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:27:54,577] {logging_mixin.py:115} INFO - [2022-06-15 09:27:54,577] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:27:54,626] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.387 seconds
+[2022-06-15 09:28:25,464] {processor.py:153} INFO - Started process (PID=29455) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:25,474] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:28:25,479] {logging_mixin.py:115} INFO - [2022-06-15 09:28:25,478] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:25,517] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:25,567] {logging_mixin.py:115} INFO - [2022-06-15 09:28:25,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:28:25,617] {logging_mixin.py:115} INFO - [2022-06-15 09:28:25,617] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:28:25,643] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.185 seconds
+[2022-06-15 09:28:56,258] {processor.py:153} INFO - Started process (PID=29511) to work on /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:56,262] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_table.py for tasks to queue
+[2022-06-15 09:28:56,266] {logging_mixin.py:115} INFO - [2022-06-15 09:28:56,266] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:56,339] {processor.py:651} INFO - DAG(s) dict_keys(['testing']) retrieved from /opt/airflow/dags/create_table.py
+[2022-06-15 09:28:56,438] {logging_mixin.py:115} INFO - [2022-06-15 09:28:56,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-15 09:28:56,475] {logging_mixin.py:115} INFO - [2022-06-15 09:28:56,475] {dag.py:2931} INFO - Setting next_dagrun for testing to None, run_after=None
+[2022-06-15 09:28:56,494] {processor.py:161} INFO - Processing /opt/airflow/dags/create_table.py took 0.241 seconds

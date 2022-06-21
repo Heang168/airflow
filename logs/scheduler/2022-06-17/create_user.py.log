@@ -1,0 +1,448 @@
+[2022-06-17 07:26:59,283] {processor.py:153} INFO - Started process (PID=57) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:26:59,292] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:26:59,296] {logging_mixin.py:115} INFO - [2022-06-17 07:26:59,296] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:27:12,876] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:27:13,023] {logging_mixin.py:115} INFO - [2022-06-17 07:27:13,010] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:27:13,216] {logging_mixin.py:115} INFO - [2022-06-17 07:27:13,216] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:27:13,306] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 14.078 seconds
+[2022-06-17 07:28:14,365] {processor.py:153} INFO - Started process (PID=125) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:14,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:28:14,374] {logging_mixin.py:115} INFO - [2022-06-17 07:28:14,374] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:17,055] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:17,164] {logging_mixin.py:115} INFO - [2022-06-17 07:28:17,161] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:28:17,217] {logging_mixin.py:115} INFO - [2022-06-17 07:28:17,217] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:28:17,245] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.902 seconds
+[2022-06-17 07:28:47,859] {processor.py:153} INFO - Started process (PID=184) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:47,872] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:28:47,877] {logging_mixin.py:115} INFO - [2022-06-17 07:28:47,876] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:49,230] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:28:49,278] {logging_mixin.py:115} INFO - [2022-06-17 07:28:49,278] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:28:49,331] {logging_mixin.py:115} INFO - [2022-06-17 07:28:49,331] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:28:49,359] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.505 seconds
+[2022-06-17 07:29:19,475] {processor.py:153} INFO - Started process (PID=250) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:19,478] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:29:19,480] {logging_mixin.py:115} INFO - [2022-06-17 07:29:19,479] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:20,074] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:20,106] {logging_mixin.py:115} INFO - [2022-06-17 07:29:20,106] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:29:20,135] {logging_mixin.py:115} INFO - [2022-06-17 07:29:20,135] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:29:20,151] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.682 seconds
+[2022-06-17 07:29:50,369] {processor.py:153} INFO - Started process (PID=309) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:50,372] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:29:50,375] {logging_mixin.py:115} INFO - [2022-06-17 07:29:50,375] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:51,356] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:29:51,406] {logging_mixin.py:115} INFO - [2022-06-17 07:29:51,405] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:29:51,456] {logging_mixin.py:115} INFO - [2022-06-17 07:29:51,456] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:29:51,483] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.134 seconds
+[2022-06-17 07:30:21,822] {processor.py:153} INFO - Started process (PID=376) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:21,826] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:30:21,829] {logging_mixin.py:115} INFO - [2022-06-17 07:30:21,828] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:22,414] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:22,449] {logging_mixin.py:115} INFO - [2022-06-17 07:30:22,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:30:22,476] {logging_mixin.py:115} INFO - [2022-06-17 07:30:22,476] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:30:22,491] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.678 seconds
+[2022-06-17 07:30:52,588] {processor.py:153} INFO - Started process (PID=433) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:52,590] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:30:52,592] {logging_mixin.py:115} INFO - [2022-06-17 07:30:52,592] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:53,777] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:30:53,811] {logging_mixin.py:115} INFO - [2022-06-17 07:30:53,810] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:30:53,841] {logging_mixin.py:115} INFO - [2022-06-17 07:30:53,840] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:30:53,905] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.329 seconds
+[2022-06-17 07:31:24,182] {processor.py:153} INFO - Started process (PID=498) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:31:24,184] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:31:24,197] {logging_mixin.py:115} INFO - [2022-06-17 07:31:24,197] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:31:26,385] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:31:26,425] {logging_mixin.py:115} INFO - [2022-06-17 07:31:26,424] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:31:26,453] {logging_mixin.py:115} INFO - [2022-06-17 07:31:26,452] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:31:26,467] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.330 seconds
+[2022-06-17 07:31:56,871] {processor.py:153} INFO - Started process (PID=554) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:31:56,881] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:31:56,892] {logging_mixin.py:115} INFO - [2022-06-17 07:31:56,890] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:32:01,703] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:32:01,766] {logging_mixin.py:115} INFO - [2022-06-17 07:32:01,765] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:32:01,870] {logging_mixin.py:115} INFO - [2022-06-17 07:32:01,870] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:32:01,918] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 5.072 seconds
+[2022-06-17 07:32:32,455] {processor.py:153} INFO - Started process (PID=614) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:32:32,459] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:32:32,461] {logging_mixin.py:115} INFO - [2022-06-17 07:32:32,460] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:32:32,976] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:32:33,025] {logging_mixin.py:115} INFO - [2022-06-17 07:32:33,025] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:32:33,059] {logging_mixin.py:115} INFO - [2022-06-17 07:32:33,059] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:32:33,074] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.623 seconds
+[2022-06-17 07:33:03,194] {processor.py:153} INFO - Started process (PID=672) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:03,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:33:03,200] {logging_mixin.py:115} INFO - [2022-06-17 07:33:03,200] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:03,906] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:03,941] {logging_mixin.py:115} INFO - [2022-06-17 07:33:03,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:33:03,975] {logging_mixin.py:115} INFO - [2022-06-17 07:33:03,975] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:33:03,995] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.812 seconds
+[2022-06-17 07:33:34,785] {processor.py:153} INFO - Started process (PID=729) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:34,791] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:33:34,795] {logging_mixin.py:115} INFO - [2022-06-17 07:33:34,795] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:35,774] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:33:35,816] {logging_mixin.py:115} INFO - [2022-06-17 07:33:35,815] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:33:35,854] {logging_mixin.py:115} INFO - [2022-06-17 07:33:35,854] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:33:35,876] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.116 seconds
+[2022-06-17 07:34:06,155] {processor.py:153} INFO - Started process (PID=797) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:06,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:34:06,158] {logging_mixin.py:115} INFO - [2022-06-17 07:34:06,158] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:06,700] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:06,733] {logging_mixin.py:115} INFO - [2022-06-17 07:34:06,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:34:06,766] {logging_mixin.py:115} INFO - [2022-06-17 07:34:06,766] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:34:06,782] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.635 seconds
+[2022-06-17 07:34:36,952] {processor.py:153} INFO - Started process (PID=853) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:36,955] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:34:36,956] {logging_mixin.py:115} INFO - [2022-06-17 07:34:36,956] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:37,568] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:34:37,601] {logging_mixin.py:115} INFO - [2022-06-17 07:34:37,600] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:34:37,639] {logging_mixin.py:115} INFO - [2022-06-17 07:34:37,639] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:34:37,656] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.713 seconds
+[2022-06-17 07:35:07,808] {processor.py:153} INFO - Started process (PID=910) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:07,811] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:35:07,831] {logging_mixin.py:115} INFO - [2022-06-17 07:35:07,831] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:08,737] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:08,892] {logging_mixin.py:115} INFO - [2022-06-17 07:35:08,891] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:35:08,976] {logging_mixin.py:115} INFO - [2022-06-17 07:35:08,976] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:35:09,046] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.253 seconds
+[2022-06-17 07:35:39,614] {processor.py:153} INFO - Started process (PID=976) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:39,621] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:35:39,643] {logging_mixin.py:115} INFO - [2022-06-17 07:35:39,642] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:43,296] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:35:43,625] {logging_mixin.py:115} INFO - [2022-06-17 07:35:43,624] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:35:43,819] {logging_mixin.py:115} INFO - [2022-06-17 07:35:43,802] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:35:44,150] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 4.568 seconds
+[2022-06-17 07:36:14,556] {processor.py:153} INFO - Started process (PID=1032) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:14,559] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:36:14,564] {logging_mixin.py:115} INFO - [2022-06-17 07:36:14,564] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:15,524] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:15,567] {logging_mixin.py:115} INFO - [2022-06-17 07:36:15,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:36:15,630] {logging_mixin.py:115} INFO - [2022-06-17 07:36:15,630] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:36:15,666] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.122 seconds
+[2022-06-17 07:36:46,153] {processor.py:153} INFO - Started process (PID=1092) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:46,155] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:36:46,157] {logging_mixin.py:115} INFO - [2022-06-17 07:36:46,157] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:46,907] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:36:46,949] {logging_mixin.py:115} INFO - [2022-06-17 07:36:46,948] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:36:46,981] {logging_mixin.py:115} INFO - [2022-06-17 07:36:46,981] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:36:47,000] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.855 seconds
+[2022-06-17 07:37:17,772] {processor.py:153} INFO - Started process (PID=1150) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:17,779] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:37:17,786] {logging_mixin.py:115} INFO - [2022-06-17 07:37:17,784] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:19,077] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:19,160] {logging_mixin.py:115} INFO - [2022-06-17 07:37:19,159] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:37:19,211] {logging_mixin.py:115} INFO - [2022-06-17 07:37:19,211] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:37:19,246] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.515 seconds
+[2022-06-17 07:37:49,374] {processor.py:153} INFO - Started process (PID=1219) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:49,376] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:37:49,379] {logging_mixin.py:115} INFO - [2022-06-17 07:37:49,378] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:51,307] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:37:51,369] {logging_mixin.py:115} INFO - [2022-06-17 07:37:51,368] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:37:51,430] {logging_mixin.py:115} INFO - [2022-06-17 07:37:51,430] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:37:51,456] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.087 seconds
+[2022-06-17 07:38:21,888] {processor.py:153} INFO - Started process (PID=1278) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:21,902] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:38:21,906] {logging_mixin.py:115} INFO - [2022-06-17 07:38:21,905] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:25,525] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:25,732] {logging_mixin.py:115} INFO - [2022-06-17 07:38:25,731] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:38:25,866] {logging_mixin.py:115} INFO - [2022-06-17 07:38:25,866] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:38:25,931] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 4.068 seconds
+[2022-06-17 07:38:56,190] {processor.py:153} INFO - Started process (PID=1337) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:56,194] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:38:56,208] {logging_mixin.py:115} INFO - [2022-06-17 07:38:56,207] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:58,188] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:38:58,272] {logging_mixin.py:115} INFO - [2022-06-17 07:38:58,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:38:58,339] {logging_mixin.py:115} INFO - [2022-06-17 07:38:58,339] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:38:58,416] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.233 seconds
+[2022-06-17 07:39:29,254] {processor.py:153} INFO - Started process (PID=1403) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:39:29,262] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:39:29,291] {logging_mixin.py:115} INFO - [2022-06-17 07:39:29,286] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:39:31,410] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:39:31,559] {logging_mixin.py:115} INFO - [2022-06-17 07:39:31,548] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:39:31,669] {logging_mixin.py:115} INFO - [2022-06-17 07:39:31,669] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:39:31,746] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.512 seconds
+[2022-06-17 07:40:02,058] {processor.py:153} INFO - Started process (PID=1461) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:02,060] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:40:02,064] {logging_mixin.py:115} INFO - [2022-06-17 07:40:02,063] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:02,952] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:03,004] {logging_mixin.py:115} INFO - [2022-06-17 07:40:03,003] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:40:03,046] {logging_mixin.py:115} INFO - [2022-06-17 07:40:03,046] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:40:03,077] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.036 seconds
+[2022-06-17 07:40:35,344] {processor.py:153} INFO - Started process (PID=1517) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:35,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:40:35,359] {logging_mixin.py:115} INFO - [2022-06-17 07:40:35,359] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:37,977] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:40:38,504] {logging_mixin.py:115} INFO - [2022-06-17 07:40:38,452] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:40:39,152] {logging_mixin.py:115} INFO - [2022-06-17 07:40:39,152] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:40:39,494] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 4.155 seconds
+[2022-06-17 07:41:42,609] {processor.py:153} INFO - Started process (PID=1586) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:41:42,614] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:41:42,628] {logging_mixin.py:115} INFO - [2022-06-17 07:41:42,628] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:41:44,856] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:41:44,992] {logging_mixin.py:115} INFO - [2022-06-17 07:41:44,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:41:45,126] {logging_mixin.py:115} INFO - [2022-06-17 07:41:45,126] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:41:45,174] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.615 seconds
+[2022-06-17 07:42:15,559] {processor.py:153} INFO - Started process (PID=1643) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:15,561] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:42:15,566] {logging_mixin.py:115} INFO - [2022-06-17 07:42:15,566] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:16,238] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:16,294] {logging_mixin.py:115} INFO - [2022-06-17 07:42:16,293] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:42:16,342] {logging_mixin.py:115} INFO - [2022-06-17 07:42:16,342] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:42:16,375] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.835 seconds
+[2022-06-17 07:42:47,099] {processor.py:153} INFO - Started process (PID=1710) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:47,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:42:47,106] {logging_mixin.py:115} INFO - [2022-06-17 07:42:47,106] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:48,505] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:42:48,536] {logging_mixin.py:115} INFO - [2022-06-17 07:42:48,535] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:42:48,673] {logging_mixin.py:115} INFO - [2022-06-17 07:42:48,672] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:42:48,744] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.658 seconds
+[2022-06-17 07:43:19,212] {processor.py:153} INFO - Started process (PID=1768) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:19,215] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:43:19,218] {logging_mixin.py:115} INFO - [2022-06-17 07:43:19,218] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:20,203] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:20,260] {logging_mixin.py:115} INFO - [2022-06-17 07:43:20,259] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:43:20,291] {logging_mixin.py:115} INFO - [2022-06-17 07:43:20,291] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:43:20,313] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.109 seconds
+[2022-06-17 07:43:50,621] {processor.py:153} INFO - Started process (PID=1826) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:50,623] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:43:50,626] {logging_mixin.py:115} INFO - [2022-06-17 07:43:50,626] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:51,278] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:43:51,313] {logging_mixin.py:115} INFO - [2022-06-17 07:43:51,312] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:43:51,348] {logging_mixin.py:115} INFO - [2022-06-17 07:43:51,348] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:43:51,369] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.754 seconds
+[2022-06-17 07:44:29,980] {processor.py:153} INFO - Started process (PID=1883) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:44:29,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:44:30,003] {logging_mixin.py:115} INFO - [2022-06-17 07:44:30,003] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:44:32,376] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:44:32,503] {logging_mixin.py:115} INFO - [2022-06-17 07:44:32,494] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:44:32,590] {logging_mixin.py:115} INFO - [2022-06-17 07:44:32,589] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:44:32,629] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.724 seconds
+[2022-06-17 07:45:03,258] {processor.py:153} INFO - Started process (PID=1951) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:03,260] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:45:03,263] {logging_mixin.py:115} INFO - [2022-06-17 07:45:03,263] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:04,381] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:04,411] {logging_mixin.py:115} INFO - [2022-06-17 07:45:04,411] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:45:04,461] {logging_mixin.py:115} INFO - [2022-06-17 07:45:04,461] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:45:04,493] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.258 seconds
+[2022-06-17 07:45:34,781] {processor.py:153} INFO - Started process (PID=2000) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:34,784] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:45:34,787] {logging_mixin.py:115} INFO - [2022-06-17 07:45:34,786] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:35,643] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:45:35,690] {logging_mixin.py:115} INFO - [2022-06-17 07:45:35,689] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:45:35,737] {logging_mixin.py:115} INFO - [2022-06-17 07:45:35,737] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:45:35,771] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.021 seconds
+[2022-06-17 07:46:06,013] {processor.py:153} INFO - Started process (PID=2057) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:06,015] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:46:06,018] {logging_mixin.py:115} INFO - [2022-06-17 07:46:06,018] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:07,206] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:07,282] {logging_mixin.py:115} INFO - [2022-06-17 07:46:07,281] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:46:07,342] {logging_mixin.py:115} INFO - [2022-06-17 07:46:07,342] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:46:07,366] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.358 seconds
+[2022-06-17 07:46:37,905] {processor.py:153} INFO - Started process (PID=2115) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:37,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:46:37,910] {logging_mixin.py:115} INFO - [2022-06-17 07:46:37,909] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:38,705] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:46:38,735] {logging_mixin.py:115} INFO - [2022-06-17 07:46:38,734] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:46:38,771] {logging_mixin.py:115} INFO - [2022-06-17 07:46:38,771] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:46:38,806] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.911 seconds
+[2022-06-17 07:47:09,284] {processor.py:153} INFO - Started process (PID=2171) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:09,286] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:47:09,288] {logging_mixin.py:115} INFO - [2022-06-17 07:47:09,288] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:10,846] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:11,025] {logging_mixin.py:115} INFO - [2022-06-17 07:47:11,023] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:47:11,224] {logging_mixin.py:115} INFO - [2022-06-17 07:47:11,223] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:47:11,272] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.009 seconds
+[2022-06-17 07:47:41,899] {processor.py:153} INFO - Started process (PID=2228) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:41,902] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:47:41,905] {logging_mixin.py:115} INFO - [2022-06-17 07:47:41,905] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:43,242] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:47:43,317] {logging_mixin.py:115} INFO - [2022-06-17 07:47:43,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:47:43,361] {logging_mixin.py:115} INFO - [2022-06-17 07:47:43,361] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:47:43,384] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.500 seconds
+[2022-06-17 07:48:15,820] {processor.py:153} INFO - Started process (PID=2285) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:15,823] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:48:15,825] {logging_mixin.py:115} INFO - [2022-06-17 07:48:15,825] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:17,626] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:17,773] {logging_mixin.py:115} INFO - [2022-06-17 07:48:17,769] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:48:17,926] {logging_mixin.py:115} INFO - [2022-06-17 07:48:17,926] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:48:17,947] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.151 seconds
+[2022-06-17 07:48:48,877] {processor.py:153} INFO - Started process (PID=2343) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:48,879] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:48:48,884] {logging_mixin.py:115} INFO - [2022-06-17 07:48:48,884] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:50,261] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:48:50,372] {logging_mixin.py:115} INFO - [2022-06-17 07:48:50,371] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:48:50,516] {logging_mixin.py:115} INFO - [2022-06-17 07:48:50,516] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:48:50,719] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.848 seconds
+[2022-06-17 07:49:21,425] {processor.py:153} INFO - Started process (PID=2410) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:21,430] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:49:21,440] {logging_mixin.py:115} INFO - [2022-06-17 07:49:21,440] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:22,447] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:22,548] {logging_mixin.py:115} INFO - [2022-06-17 07:49:22,548] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:49:22,598] {logging_mixin.py:115} INFO - [2022-06-17 07:49:22,598] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:49:22,622] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.212 seconds
+[2022-06-17 07:49:53,601] {processor.py:153} INFO - Started process (PID=2469) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:53,603] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:49:53,610] {logging_mixin.py:115} INFO - [2022-06-17 07:49:53,610] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:55,518] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:49:55,636] {logging_mixin.py:115} INFO - [2022-06-17 07:49:55,636] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:49:55,747] {logging_mixin.py:115} INFO - [2022-06-17 07:49:55,747] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:49:55,811] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.216 seconds
+[2022-06-17 07:50:26,494] {processor.py:153} INFO - Started process (PID=2536) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:26,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:50:26,510] {logging_mixin.py:115} INFO - [2022-06-17 07:50:26,510] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:28,122] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:28,162] {logging_mixin.py:115} INFO - [2022-06-17 07:50:28,159] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:50:28,195] {logging_mixin.py:115} INFO - [2022-06-17 07:50:28,195] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:50:28,216] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.762 seconds
+[2022-06-17 07:50:58,560] {processor.py:153} INFO - Started process (PID=2597) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:58,563] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:50:58,566] {logging_mixin.py:115} INFO - [2022-06-17 07:50:58,566] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:59,084] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:50:59,136] {logging_mixin.py:115} INFO - [2022-06-17 07:50:59,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:50:59,200] {logging_mixin.py:115} INFO - [2022-06-17 07:50:59,200] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:50:59,229] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.674 seconds
+[2022-06-17 07:51:29,336] {processor.py:153} INFO - Started process (PID=2654) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:51:29,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:51:29,342] {logging_mixin.py:115} INFO - [2022-06-17 07:51:29,341] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:51:31,042] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:51:31,101] {logging_mixin.py:115} INFO - [2022-06-17 07:51:31,100] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:51:31,137] {logging_mixin.py:115} INFO - [2022-06-17 07:51:31,137] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:51:31,159] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.831 seconds
+[2022-06-17 07:52:01,401] {processor.py:153} INFO - Started process (PID=2718) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:01,405] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:52:01,409] {logging_mixin.py:115} INFO - [2022-06-17 07:52:01,408] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:02,917] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:02,961] {logging_mixin.py:115} INFO - [2022-06-17 07:52:02,956] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:52:03,029] {logging_mixin.py:115} INFO - [2022-06-17 07:52:03,029] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:52:03,061] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.671 seconds
+[2022-06-17 07:52:33,838] {processor.py:153} INFO - Started process (PID=2779) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:33,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:52:33,843] {logging_mixin.py:115} INFO - [2022-06-17 07:52:33,843] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:34,770] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:52:34,815] {logging_mixin.py:115} INFO - [2022-06-17 07:52:34,814] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:52:34,905] {logging_mixin.py:115} INFO - [2022-06-17 07:52:34,905] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:52:34,940] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.127 seconds
+[2022-06-17 07:53:05,304] {processor.py:153} INFO - Started process (PID=2836) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:05,309] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:53:05,315] {logging_mixin.py:115} INFO - [2022-06-17 07:53:05,314] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:06,484] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:06,535] {logging_mixin.py:115} INFO - [2022-06-17 07:53:06,535] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:53:06,581] {logging_mixin.py:115} INFO - [2022-06-17 07:53:06,581] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:53:06,609] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.309 seconds
+[2022-06-17 07:53:36,738] {processor.py:153} INFO - Started process (PID=2893) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:36,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:53:36,742] {logging_mixin.py:115} INFO - [2022-06-17 07:53:36,742] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:37,817] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:53:37,874] {logging_mixin.py:115} INFO - [2022-06-17 07:53:37,870] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:53:37,922] {logging_mixin.py:115} INFO - [2022-06-17 07:53:37,920] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:53:37,946] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.221 seconds
+[2022-06-17 07:54:08,201] {processor.py:153} INFO - Started process (PID=2952) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:08,215] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:54:08,221] {logging_mixin.py:115} INFO - [2022-06-17 07:54:08,221] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:09,605] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:09,641] {logging_mixin.py:115} INFO - [2022-06-17 07:54:09,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:54:09,687] {logging_mixin.py:115} INFO - [2022-06-17 07:54:09,687] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:54:09,732] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.560 seconds
+[2022-06-17 07:54:40,311] {processor.py:153} INFO - Started process (PID=3010) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:40,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:54:40,324] {logging_mixin.py:115} INFO - [2022-06-17 07:54:40,323] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:42,042] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:54:42,126] {logging_mixin.py:115} INFO - [2022-06-17 07:54:42,120] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:54:42,237] {logging_mixin.py:115} INFO - [2022-06-17 07:54:42,237] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:54:42,299] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.011 seconds
+[2022-06-17 07:55:12,592] {processor.py:153} INFO - Started process (PID=3076) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:12,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:55:12,598] {logging_mixin.py:115} INFO - [2022-06-17 07:55:12,597] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:13,220] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:13,252] {logging_mixin.py:115} INFO - [2022-06-17 07:55:13,251] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:55:13,284] {logging_mixin.py:115} INFO - [2022-06-17 07:55:13,284] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:55:13,299] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.721 seconds
+[2022-06-17 07:55:43,407] {processor.py:153} INFO - Started process (PID=3135) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:43,412] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:55:43,416] {logging_mixin.py:115} INFO - [2022-06-17 07:55:43,416] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:43,937] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:55:43,968] {logging_mixin.py:115} INFO - [2022-06-17 07:55:43,967] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:55:43,997] {logging_mixin.py:115} INFO - [2022-06-17 07:55:43,997] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:55:44,017] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.615 seconds
+[2022-06-17 07:56:14,208] {processor.py:153} INFO - Started process (PID=3201) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:14,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:56:14,226] {logging_mixin.py:115} INFO - [2022-06-17 07:56:14,226] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:15,054] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:15,082] {logging_mixin.py:115} INFO - [2022-06-17 07:56:15,081] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:56:15,112] {logging_mixin.py:115} INFO - [2022-06-17 07:56:15,112] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:56:15,127] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.925 seconds
+[2022-06-17 07:56:45,212] {processor.py:153} INFO - Started process (PID=3258) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:45,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:56:45,215] {logging_mixin.py:115} INFO - [2022-06-17 07:56:45,215] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:45,850] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:56:45,889] {logging_mixin.py:115} INFO - [2022-06-17 07:56:45,888] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:56:45,939] {logging_mixin.py:115} INFO - [2022-06-17 07:56:45,939] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:56:45,971] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.765 seconds
+[2022-06-17 07:57:16,765] {processor.py:153} INFO - Started process (PID=3315) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:16,768] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:57:16,770] {logging_mixin.py:115} INFO - [2022-06-17 07:57:16,770] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:17,482] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:17,513] {logging_mixin.py:115} INFO - [2022-06-17 07:57:17,512] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:57:17,550] {logging_mixin.py:115} INFO - [2022-06-17 07:57:17,549] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:57:17,568] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.808 seconds
+[2022-06-17 07:57:48,267] {processor.py:153} INFO - Started process (PID=3383) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:48,280] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:57:48,284] {logging_mixin.py:115} INFO - [2022-06-17 07:57:48,283] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:49,177] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:57:49,212] {logging_mixin.py:115} INFO - [2022-06-17 07:57:49,212] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:57:49,252] {logging_mixin.py:115} INFO - [2022-06-17 07:57:49,252] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:57:49,273] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.010 seconds
+[2022-06-17 07:58:19,654] {processor.py:153} INFO - Started process (PID=3442) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:19,661] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:58:19,675] {logging_mixin.py:115} INFO - [2022-06-17 07:58:19,671] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:20,502] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:20,535] {logging_mixin.py:115} INFO - [2022-06-17 07:58:20,534] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:58:20,565] {logging_mixin.py:115} INFO - [2022-06-17 07:58:20,565] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:58:20,581] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.985 seconds
+[2022-06-17 07:58:51,441] {processor.py:153} INFO - Started process (PID=3509) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:51,448] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:58:51,460] {logging_mixin.py:115} INFO - [2022-06-17 07:58:51,458] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:52,467] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:58:52,527] {logging_mixin.py:115} INFO - [2022-06-17 07:58:52,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:58:52,600] {logging_mixin.py:115} INFO - [2022-06-17 07:58:52,600] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:58:52,626] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.202 seconds
+[2022-06-17 07:59:22,705] {processor.py:153} INFO - Started process (PID=3565) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:22,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:59:22,711] {logging_mixin.py:115} INFO - [2022-06-17 07:59:22,711] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:23,378] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:23,411] {logging_mixin.py:115} INFO - [2022-06-17 07:59:23,410] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:59:23,444] {logging_mixin.py:115} INFO - [2022-06-17 07:59:23,444] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:59:23,462] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.762 seconds
+[2022-06-17 07:59:53,590] {processor.py:153} INFO - Started process (PID=3630) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:53,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 07:59:53,598] {logging_mixin.py:115} INFO - [2022-06-17 07:59:53,598] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:54,322] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 07:59:54,361] {logging_mixin.py:115} INFO - [2022-06-17 07:59:54,360] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 07:59:54,407] {logging_mixin.py:115} INFO - [2022-06-17 07:59:54,407] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 07:59:54,427] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.848 seconds
+[2022-06-17 08:00:25,060] {processor.py:153} INFO - Started process (PID=3687) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:25,062] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 08:00:25,063] {logging_mixin.py:115} INFO - [2022-06-17 08:00:25,063] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:25,815] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:25,880] {logging_mixin.py:115} INFO - [2022-06-17 08:00:25,879] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 08:00:25,960] {logging_mixin.py:115} INFO - [2022-06-17 08:00:25,960] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 08:00:26,002] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 0.945 seconds
+[2022-06-17 08:00:57,143] {processor.py:153} INFO - Started process (PID=3743) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:57,152] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 08:00:57,158] {logging_mixin.py:115} INFO - [2022-06-17 08:00:57,158] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:58,782] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 08:00:58,827] {logging_mixin.py:115} INFO - [2022-06-17 08:00:58,826] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 08:00:58,868] {logging_mixin.py:115} INFO - [2022-06-17 08:00:58,868] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 08:00:58,898] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.775 seconds
+[2022-06-17 08:01:29,193] {processor.py:153} INFO - Started process (PID=3799) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 08:01:29,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 08:01:29,202] {logging_mixin.py:115} INFO - [2022-06-17 08:01:29,201] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 08:01:30,142] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 08:01:30,184] {logging_mixin.py:115} INFO - [2022-06-17 08:01:30,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 08:01:30,255] {logging_mixin.py:115} INFO - [2022-06-17 08:01:30,255] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 08:01:30,277] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 1.101 seconds
+[2022-06-17 08:02:00,769] {processor.py:153} INFO - Started process (PID=3861) to work on /opt/airflow/dags/create_user.py
+[2022-06-17 08:02:00,776] {processor.py:641} INFO - Processing file /opt/airflow/dags/create_user.py for tasks to queue
+[2022-06-17 08:02:00,780] {logging_mixin.py:115} INFO - [2022-06-17 08:02:00,780] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/create_user.py
+[2022-06-17 08:02:02,787] {processor.py:651} INFO - DAG(s) dict_keys(['table_postgres']) retrieved from /opt/airflow/dags/create_user.py
+[2022-06-17 08:02:02,854] {logging_mixin.py:115} INFO - [2022-06-17 08:02:02,853] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-17 08:02:02,917] {logging_mixin.py:115} INFO - [2022-06-17 08:02:02,917] {dag.py:2931} INFO - Setting next_dagrun for table_postgres to None, run_after=None
+[2022-06-17 08:02:02,953] {processor.py:161} INFO - Processing /opt/airflow/dags/create_user.py took 2.192 seconds

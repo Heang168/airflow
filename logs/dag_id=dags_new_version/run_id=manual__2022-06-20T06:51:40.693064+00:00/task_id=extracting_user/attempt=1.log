@@ -1,0 +1,26 @@
+[2022-06-20 06:51:58,653] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-20T06:51:40.693064+00:00 [queued]>
+[2022-06-20 06:51:59,181] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-20T06:51:40.693064+00:00 [queued]>
+[2022-06-20 06:51:59,314] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 06:51:59,322] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-20 06:51:59,327] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 06:52:00,141] {taskinstance.py:1377} INFO - Executing <Task(SimpleHttpOperator): extracting_user> on 2022-06-20 06:51:40.693064+00:00
+[2022-06-20 06:52:00,673] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'extracting_user', 'manual__2022-06-20T06:51:40.693064+00:00', '--job-id', '199', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmpp_3c4jsu', '--error-file', '/tmp/tmpg6l614h0']
+[2022-06-20 06:52:00,757] {standard_task_runner.py:80} INFO - Job 199: Subtask extracting_user
+[2022-06-20 06:52:00,402] {standard_task_runner.py:52} INFO - Started process 840 to run task
+[2022-06-20 06:52:06,249] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.extracting_user manual__2022-06-20T06:51:40.693064+00:00 [running]> on host ca3ce831c04f
+[2022-06-20 06:52:10,080] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=extracting_user
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-20T06:51:40.693064+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-20T06:51:40.693064+00:00
+[2022-06-20 06:52:10,089] {http.py:102} INFO - Calling HTTP method
+[2022-06-20 06:52:10,196] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-20 06:52:10,207] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2022-06-20 06:52:10,983] {http.py:106} INFO - {"results":[{"gender":"female","name":{"title":"Miss","first":"Ceylan","last":"Erbay"},"location":{"street":{"number":5129,"name":"Doktorlar Cd"},"city":"Tokat","state":"Uşak","country":"Turkey","postcode":60540,"coordinates":{"latitude":"75.1115","longitude":"121.9257"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"ceylan.erbay@example.com","login":{"uuid":"355582bc-8e6e-4d3c-a56e-e3f45f841a07","username":"whitewolf272","password":"hansolo","salt":"6x6ZnWQx","md5":"a4f22a3906eaf554e10fab7545333b4d","sha1":"d4f5a9a4e6eaede3c2562a8ce85557d22ea152ff","sha256":"f98cfbc5d858eaae8378dd87f1328201a3c2492c16e8e266aa321fa9d977ca9d"},"dob":{"date":"1996-03-24T19:46:35.788Z","age":26},"registered":{"date":"2006-09-12T09:16:30.007Z","age":16},"phone":"(952)-160-4305","cell":"(149)-501-3170","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/30.jpg","medium":"https://randomuser.me/api/portraits/med/women/30.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/30.jpg"},"nat":"TR"}],"info":{"seed":"a15464f350881d99","results":1,"page":1,"version":"1.3"}}
+[2022-06-20 06:52:11,383] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_new_version, task_id=extracting_user, execution_date=20220620T065140, start_date=20220620T065158, end_date=20220620T065211
+[2022-06-20 06:52:12,050] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-20 06:52:12,592] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

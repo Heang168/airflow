@@ -1,0 +1,26 @@
+[2022-06-17 09:54:50,943] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:54:16.978802+00:00 [queued]>
+[2022-06-17 09:54:50,981] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:54:16.978802+00:00 [queued]>
+[2022-06-17 09:54:50,983] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:54:50,985] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-17 09:54:50,990] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:54:51,036] {taskinstance.py:1377} INFO - Executing <Task(SimpleHttpOperator): extracting_user> on 2022-06-17 09:54:16.978802+00:00
+[2022-06-17 09:54:51,056] {standard_task_runner.py:52} INFO - Started process 5783 to run task
+[2022-06-17 09:54:51,069] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'extracting_user', 'manual__2022-06-17T09:54:16.978802+00:00', '--job-id', '144', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmpfkca2ctp', '--error-file', '/tmp/tmpow1wxcbp']
+[2022-06-17 09:54:51,071] {standard_task_runner.py:80} INFO - Job 144: Subtask extracting_user
+[2022-06-17 09:54:51,239] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:54:16.978802+00:00 [running]> on host adccabfb4a32
+[2022-06-17 09:54:51,679] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=extracting_user
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-17T09:54:16.978802+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-17T09:54:16.978802+00:00
+[2022-06-17 09:54:51,682] {http.py:102} INFO - Calling HTTP method
+[2022-06-17 09:54:51,707] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 09:54:51,714] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2022-06-17 09:54:52,479] {http.py:106} INFO - {"results":[{"gender":"male","name":{"title":"Mr","first":"سینا","last":"جعفری"},"location":{"street":{"number":4884,"name":"17 شهریور"},"city":"ملارد","state":"گلستان","country":"Iran","postcode":21532,"coordinates":{"latitude":"29.2532","longitude":"-97.0062"},"timezone":{"offset":"-8:00","description":"Pacific Time (US & Canada)"}},"email":"syn.jaafry@example.com","login":{"uuid":"80270be2-c511-4f33-b61c-94529e99f181","username":"bigpeacock656","password":"hansolo","salt":"Wvee9lmU","md5":"d9dc02e4aedfaadbb673a9ca201255be","sha1":"7ca87d7ca37b66892d79c50c74451d79ce07d131","sha256":"76acd06519f0bee4f8ae9e6baa8d448b39cadc6b8894a786e6d86d85023f72b8"},"dob":{"date":"1958-03-20T14:48:02.190Z","age":64},"registered":{"date":"2007-09-13T10:28:59.870Z","age":15},"phone":"058-55905069","cell":"0931-220-9816","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/17.jpg","medium":"https://randomuser.me/api/portraits/med/men/17.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/17.jpg"},"nat":"IR"}],"info":{"seed":"80d87ac6c61b2efb","results":1,"page":1,"version":"1.3"}}
+[2022-06-17 09:54:52,555] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_new_version, task_id=extracting_user, execution_date=20220617T095416, start_date=20220617T095450, end_date=20220617T095452
+[2022-06-17 09:54:52,630] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-17 09:54:52,747] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

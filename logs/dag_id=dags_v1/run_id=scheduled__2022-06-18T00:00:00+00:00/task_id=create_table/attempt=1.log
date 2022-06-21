@@ -1,0 +1,35 @@
+[2022-06-21 06:59:22,077] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_v1.create_table scheduled__2022-06-18T00:00:00+00:00 [queued]>
+[2022-06-21 06:59:22,499] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_v1.create_table scheduled__2022-06-18T00:00:00+00:00 [queued]>
+[2022-06-21 06:59:22,506] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 06:59:22,523] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-21 06:59:22,537] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 06:59:23,335] {taskinstance.py:1377} INFO - Executing <Task(PostgresOperator): create_table> on 2022-06-18 00:00:00+00:00
+[2022-06-21 06:59:23,545] {standard_task_runner.py:52} INFO - Started process 17723 to run task
+[2022-06-21 06:59:23,617] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_v1', 'create_table', 'scheduled__2022-06-18T00:00:00+00:00', '--job-id', '224', '--raw', '--subdir', 'DAGS_FOLDER/dags_v1.py', '--cfg-path', '/tmp/tmp1cvqx0aq', '--error-file', '/tmp/tmpmbjbf_zk']
+[2022-06-21 06:59:23,678] {standard_task_runner.py:80} INFO - Job 224: Subtask create_table
+[2022-06-21 06:59:23,937] {task_command.py:370} INFO - Running <TaskInstance: dags_v1.create_table scheduled__2022-06-18T00:00:00+00:00 [running]> on host ca3ce831c04f
+[2022-06-21 06:59:24,828] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_v1
+AIRFLOW_CTX_TASK_ID=create_table
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-18T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-18T00:00:00+00:00
+[2022-06-21 06:59:24,898] {base.py:68} INFO - Using connection ID 'postgre_sql' for task execution.
+[2022-06-21 06:59:24,919] {dbapi.py:213} INFO - Running statement: 
+        DROP TABLE IF EXISTS testing;
+        CREATE TABLE testing(
+            user_id SERIAL PRIMARY KEY,
+            firstname VARCHAR(255),
+            lastname VARCHAR(255),
+            country VARCHAR(255),
+            username VARCHAR(255),
+            password VARCHAR(255),
+            email VARCHAR(255)
+        )
+        , parameters: None
+[2022-06-21 06:59:25,069] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_v1, task_id=create_table, execution_date=20220618T000000, start_date=20220621T065922, end_date=20220621T065925
+[2022-06-21 06:59:25,315] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-21 06:59:25,673] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

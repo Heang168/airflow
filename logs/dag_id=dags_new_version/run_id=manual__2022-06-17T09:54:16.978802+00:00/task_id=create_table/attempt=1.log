@@ -1,0 +1,35 @@
+[2022-06-17 09:54:21,279] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.create_table manual__2022-06-17T09:54:16.978802+00:00 [queued]>
+[2022-06-17 09:54:21,316] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.create_table manual__2022-06-17T09:54:16.978802+00:00 [queued]>
+[2022-06-17 09:54:21,317] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:54:21,319] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-17 09:54:21,320] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:54:21,382] {taskinstance.py:1377} INFO - Executing <Task(PostgresOperator): create_table> on 2022-06-17 09:54:16.978802+00:00
+[2022-06-17 09:54:21,404] {standard_task_runner.py:52} INFO - Started process 5769 to run task
+[2022-06-17 09:54:21,438] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'create_table', 'manual__2022-06-17T09:54:16.978802+00:00', '--job-id', '142', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmpy2gw3s4z', '--error-file', '/tmp/tmp8ct7pdxx']
+[2022-06-17 09:54:21,459] {standard_task_runner.py:80} INFO - Job 142: Subtask create_table
+[2022-06-17 09:54:23,342] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.create_table manual__2022-06-17T09:54:16.978802+00:00 [running]> on host adccabfb4a32
+[2022-06-17 09:54:26,600] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=create_table
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-17T09:54:16.978802+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-17T09:54:16.978802+00:00
+[2022-06-17 09:54:26,660] {base.py:68} INFO - Using connection ID 'postgre_sql' for task execution.
+[2022-06-17 09:54:26,685] {dbapi.py:213} INFO - Running statement: 
+        DROP TABLE IF EXISTS z1_user;
+        CREATE TABLE z1_user(
+            user_id SERIAL PRIMARY KEY,
+            firstname VARCHAR(255),
+            lastname VARCHAR(255),
+            country VARCHAR(255),
+            username VARCHAR(255),
+            password VARCHAR(255),
+            email VARCHAR(255)
+        )
+        , parameters: None
+[2022-06-17 09:54:26,889] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_new_version, task_id=create_table, execution_date=20220617T095416, start_date=20220617T095421, end_date=20220617T095426
+[2022-06-17 09:54:26,996] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-17 09:54:27,149] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

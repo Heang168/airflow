@@ -1,0 +1,46 @@
+[2022-06-17 08:49:35,079] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.is_api_available manual__2022-06-17T08:49:29.706921+00:00 [queued]>
+[2022-06-17 08:49:35,109] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.is_api_available manual__2022-06-17T08:49:29.706921+00:00 [queued]>
+[2022-06-17 08:49:35,111] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 08:49:35,114] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-17 08:49:35,116] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 08:49:35,190] {taskinstance.py:1377} INFO - Executing <Task(HttpSensor): is_api_available> on 2022-06-17 08:49:29.706921+00:00
+[2022-06-17 08:49:35,208] {standard_task_runner.py:52} INFO - Started process 3277 to run task
+[2022-06-17 08:49:35,221] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'is_api_available', 'manual__2022-06-17T08:49:29.706921+00:00', '--job-id', '116', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmp5uq_iajf', '--error-file', '/tmp/tmpxcixb88_']
+[2022-06-17 08:49:35,226] {standard_task_runner.py:80} INFO - Job 116: Subtask is_api_available
+[2022-06-17 08:49:35,675] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.is_api_available manual__2022-06-17T08:49:29.706921+00:00 [running]> on host adccabfb4a32
+[2022-06-17 08:49:36,535] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=is_api_available
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-17T08:49:29.706921+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-17T08:49:29.706921+00:00
+[2022-06-17 08:49:36,553] {http.py:97} INFO - Poking: api/
+[2022-06-17 08:49:36,871] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 08:49:37,013] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/api/
+[2022-06-17 08:49:38,725] {http.py:142} ERROR - HTTP error: Not Found
+[2022-06-17 08:49:38,726] {http.py:143} ERROR - Not Found
+[2022-06-17 08:50:38,765] {http.py:97} INFO - Poking: api/
+[2022-06-17 08:50:39,021] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 08:50:39,024] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/api/
+[2022-06-17 08:50:39,865] {http.py:142} ERROR - HTTP error: Not Found
+[2022-06-17 08:50:39,867] {http.py:143} ERROR - Not Found
+[2022-06-17 08:51:39,922] {http.py:97} INFO - Poking: api/
+[2022-06-17 08:51:39,942] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 08:51:39,945] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/api/
+[2022-06-17 08:51:40,454] {http.py:142} ERROR - HTTP error: Not Found
+[2022-06-17 08:51:40,456] {http.py:143} ERROR - Not Found
+[2022-06-17 08:52:40,480] {http.py:97} INFO - Poking: api/
+[2022-06-17 08:52:40,507] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 08:52:40,510] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/api/
+[2022-06-17 08:52:41,086] {http.py:142} ERROR - HTTP error: Not Found
+[2022-06-17 08:52:41,087] {http.py:143} ERROR - Not Found
+[2022-06-17 08:53:41,105] {http.py:97} INFO - Poking: api/
+[2022-06-17 08:53:41,162] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 08:53:41,175] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2022-06-17 08:53:41,964] {base.py:301} INFO - Success criteria met. Exiting.
+[2022-06-17 08:53:42,099] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_new_version, task_id=is_api_available, execution_date=20220617T084929, start_date=20220617T084935, end_date=20220617T085342
+[2022-06-17 08:53:42,319] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-17 08:53:42,728] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

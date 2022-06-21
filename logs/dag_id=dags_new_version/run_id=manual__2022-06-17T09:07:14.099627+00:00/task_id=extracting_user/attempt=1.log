@@ -1,0 +1,26 @@
+[2022-06-17 09:07:31,688] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:07:14.099627+00:00 [queued]>
+[2022-06-17 09:07:31,705] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:07:14.099627+00:00 [queued]>
+[2022-06-17 09:07:31,706] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:07:31,707] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-17 09:07:31,708] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-17 09:07:31,727] {taskinstance.py:1377} INFO - Executing <Task(SimpleHttpOperator): extracting_user> on 2022-06-17 09:07:14.099627+00:00
+[2022-06-17 09:07:31,735] {standard_task_runner.py:52} INFO - Started process 3944 to run task
+[2022-06-17 09:07:31,744] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'extracting_user', 'manual__2022-06-17T09:07:14.099627+00:00', '--job-id', '123', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmp9kcff6ek', '--error-file', '/tmp/tmp51nfgifo']
+[2022-06-17 09:07:31,747] {standard_task_runner.py:80} INFO - Job 123: Subtask extracting_user
+[2022-06-17 09:07:31,929] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.extracting_user manual__2022-06-17T09:07:14.099627+00:00 [running]> on host adccabfb4a32
+[2022-06-17 09:07:32,223] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=extracting_user
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-17T09:07:14.099627+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-17T09:07:14.099627+00:00
+[2022-06-17 09:07:32,230] {http.py:102} INFO - Calling HTTP method
+[2022-06-17 09:07:32,249] {base.py:68} INFO - Using connection ID 'user_api' for task execution.
+[2022-06-17 09:07:32,254] {http.py:129} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2022-06-17 09:07:32,727] {http.py:106} INFO - {"results":[{"gender":"female","name":{"title":"Mrs","first":"Yolanda","last":"Ward"},"location":{"street":{"number":2125,"name":"Bruce St"},"city":"Helena","state":"West Virginia","country":"United States","postcode":43929,"coordinates":{"latitude":"79.7259","longitude":"54.6669"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"yolanda.ward@example.com","login":{"uuid":"fea4316f-6b4f-48f7-9c56-8991782023a7","username":"happylion652","password":"football","salt":"Ur9F9DvX","md5":"6c215030f729c2b65e8234c8228997ff","sha1":"a10856ea764261196efb991690994dec63003906","sha256":"1d7944b930adbb1c2e4803295c14019e2479a6d2c1e7ececf073b720183d91af"},"dob":{"date":"1978-04-19T19:03:28.183Z","age":44},"registered":{"date":"2003-07-28T05:21:14.413Z","age":19},"phone":"(510)-126-4198","cell":"(431)-073-5910","id":{"name":"SSN","value":"148-28-4739"},"picture":{"large":"https://randomuser.me/api/portraits/women/47.jpg","medium":"https://randomuser.me/api/portraits/med/women/47.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/47.jpg"},"nat":"US"}],"info":{"seed":"6d3c24686c4fe521","results":1,"page":1,"version":"1.3"}}
+[2022-06-17 09:07:32,816] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dags_new_version, task_id=extracting_user, execution_date=20220617T090714, start_date=20220617T090731, end_date=20220617T090732
+[2022-06-17 09:07:32,886] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-17 09:07:32,973] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

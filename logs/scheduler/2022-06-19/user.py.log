@@ -1,0 +1,4 @@
+[2022-06-19 06:12:30,115] {processor.py:153} INFO - Started process (PID=18315) to work on /opt/airflow/dags/user.py
+[2022-06-19 06:12:30,155] {processor.py:641} INFO - Processing file /opt/airflow/dags/user.py for tasks to queue
+[2022-06-19 06:12:30,294] {logging_mixin.py:115} INFO - [2022-06-19 06:12:30,247] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/user.py
+[2022-06-20 01:37:56,150] {logging_mixin.py:115} INFO - [2022-06-20 01:37:55,868] {timeout.py:67} ERROR - Process timed out, PID: 18315

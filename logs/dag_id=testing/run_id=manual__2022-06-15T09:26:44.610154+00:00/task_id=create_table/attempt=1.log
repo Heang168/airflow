@@ -1,0 +1,50 @@
+[2022-06-15 09:26:46,399] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: testing.create_table manual__2022-06-15T09:26:44.610154+00:00 [queued]>
+[2022-06-15 09:26:46,426] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: testing.create_table manual__2022-06-15T09:26:44.610154+00:00 [queued]>
+[2022-06-15 09:26:46,428] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-15 09:26:46,429] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-15 09:26:46,434] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-15 09:26:46,469] {taskinstance.py:1377} INFO - Executing <Task(PostgresOperator): create_table> on 2022-06-15 09:26:44.610154+00:00
+[2022-06-15 09:26:46,478] {standard_task_runner.py:52} INFO - Started process 10317 to run task
+[2022-06-15 09:26:46,491] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'testing', 'create_table', 'manual__2022-06-15T09:26:44.610154+00:00', '--job-id', '92', '--raw', '--subdir', 'DAGS_FOLDER/create_table.py', '--cfg-path', '/tmp/tmp2qz9khem', '--error-file', '/tmp/tmpa1dcx1k0']
+[2022-06-15 09:26:46,493] {standard_task_runner.py:80} INFO - Job 92: Subtask create_table
+[2022-06-15 09:26:46,735] {task_command.py:370} INFO - Running <TaskInstance: testing.create_table manual__2022-06-15T09:26:44.610154+00:00 [running]> on host cfddca254c64
+[2022-06-15 09:26:47,250] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=testing
+AIRFLOW_CTX_TASK_ID=create_table
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-15T09:26:44.610154+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-15T09:26:44.610154+00:00
+[2022-06-15 09:26:47,292] {base.py:68} INFO - Using connection ID 'testing' for task execution.
+[2022-06-15 09:26:47,324] {dbapi.py:213} INFO - Running statement: 
+        DROP TABLE IF EXISTS z1_user;
+        CREATE TABLE z1_user(
+            name VARCHAR(255),
+            phonenumber VARCHAR(255),
+            email NOT NULL VARCHAR(255) PRIMARY KEY,
+            address VARCHAR(255),
+            work VARCHAR(255),
+            other VARCHAR(255),
+        ) 
+        , parameters: None
+[2022-06-15 09:26:47,333] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/operators/postgres.py", line 92, in execute
+    self.hook.run(self.sql, self.autocommit, parameters=self.parameters)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/hooks/dbapi.py", line 193, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/hooks/dbapi.py", line 217, in _run_command
+    cur.execute(sql_statement)
+psycopg2.errors.SyntaxError: syntax error at or near "NOT"
+LINE 6:             email NOT NULL VARCHAR(255) PRIMARY KEY,
+                          ^
+
+[2022-06-15 09:26:47,371] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=testing, task_id=create_table, execution_date=20220615T092644, start_date=20220615T092646, end_date=20220615T092647
+[2022-06-15 09:26:47,451] {standard_task_runner.py:97} ERROR - Failed to execute job 92 for task create_table (syntax error at or near "NOT"
+LINE 6:             email NOT NULL VARCHAR(255) PRIMARY KEY,
+                          ^
+; 10317)
+[2022-06-15 09:26:47,579] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-15 09:26:47,770] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

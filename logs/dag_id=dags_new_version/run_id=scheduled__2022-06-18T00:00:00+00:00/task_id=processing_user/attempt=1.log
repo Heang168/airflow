@@ -1,0 +1,40 @@
+[2022-06-20 06:37:20,104] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.processing_user scheduled__2022-06-18T00:00:00+00:00 [queued]>
+[2022-06-20 06:37:20,166] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dags_new_version.processing_user scheduled__2022-06-18T00:00:00+00:00 [queued]>
+[2022-06-20 06:37:20,179] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 06:37:20,182] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-06-20 06:37:20,184] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 06:37:20,278] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): processing_user> on 2022-06-18 00:00:00+00:00
+[2022-06-20 06:37:20,305] {standard_task_runner.py:52} INFO - Started process 218 to run task
+[2022-06-20 06:37:20,335] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dags_new_version', 'processing_user', 'scheduled__2022-06-18T00:00:00+00:00', '--job-id', '174', '--raw', '--subdir', 'DAGS_FOLDER/user.py', '--cfg-path', '/tmp/tmpxa_rvkom', '--error-file', '/tmp/tmp7k560gh2']
+[2022-06-20 06:37:20,340] {standard_task_runner.py:80} INFO - Job 174: Subtask processing_user
+[2022-06-20 06:37:20,713] {task_command.py:370} INFO - Running <TaskInstance: dags_new_version.processing_user scheduled__2022-06-18T00:00:00+00:00 [running]> on host ca3ce831c04f
+[2022-06-20 06:37:20,978] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dags_new_version
+AIRFLOW_CTX_TASK_ID=processing_user
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-18T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-18T00:00:00+00:00
+[2022-06-20 06:37:21,077] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/user.py", line 31, in _processing_user
+    processed_user.to_csv('/processed_user.csv', index=None, header=False)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+PermissionError: [Errno 13] Permission denied: '/processed_user.csv'
+[2022-06-20 06:37:21,150] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=dags_new_version, task_id=processing_user, execution_date=20220618T000000, start_date=20220620T063720, end_date=20220620T063721
+[2022-06-20 06:37:21,198] {standard_task_runner.py:97} ERROR - Failed to execute job 174 for task processing_user ([Errno 13] Permission denied: '/processed_user.csv'; 218)
+[2022-06-20 06:37:21,302] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-20 06:37:21,524] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
